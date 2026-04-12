@@ -82,7 +82,7 @@ Policy modules are standalone legal documents incorporated by reference into the
 | Music Distribution Terms | `policies/music/music-distribution-terms.md` | Music distribution and royalties |
 | Streaming + Ebook Terms of Use | `policies/licensing/streaming-ebook-terms.md` | Digital content access |
 | Artifact Policy | `policies/artifact/artifact-policy.md` | Cultural artifact intake |
-| Tracking & Third-Party Licensing Policy | `policies/licensing/tracking-third-party-policy.md` | Third-party tracking |
+| Tracking & Third Party Licensing Policy | `policies/licensing/tracking-third-party-policy.md` | Third-party tracking |
 
 ### Module Dependency Rules
 
