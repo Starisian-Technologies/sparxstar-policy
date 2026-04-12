@@ -242,7 +242,21 @@
 
 ---
 
-### 16. Tracking and Third-Party Licensing Policy
+### 16. Content Policy
+
+| Field | Value |
+|---|---|
+| Policy Name | Content Policy |
+| Purpose | Governs what content may exist on the platform and how it may be used, including prohibited categories, cultural restrictions, rights clearance, AI training eligibility, and takedown eligibility |
+| Status | `planned` |
+| Jurisdiction Scope | California (primary); global |
+| Depends on Master Terms | Yes |
+| Drafting Priority | 16 |
+| File Path | `policies/content/content-policy.md` |
+
+---
+
+### 17. Tracking and Third-Party Licensing Policy
 
 | Field | Value |
 |---|---|
@@ -251,7 +265,7 @@
 | Status | `planned` |
 | Jurisdiction Scope | California (CCPA); EU/GDPR placeholder; global |
 | Depends on Master Terms | Yes |
-| Drafting Priority | 16 |
+| Drafting Priority | 17 |
 | File Path | `policies/licensing/tracking-third-party-policy.md` |
 
 ---

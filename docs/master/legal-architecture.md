@@ -70,7 +70,8 @@ Policy modules are standalone legal documents incorporated by reference into the
 |---|---|---|
 | Privacy Policy | `policies/privacy/privacy-policy.md` | User data collection, use, disclosure |
 | Cookie Policy | `policies/cookies/cookie-policy.md` | Tracking technologies and consent |
-| Community Policy | `policies/community/community-policy.md` | User conduct and content standards |
+| Community Policy | `policies/community/community-policy.md` | User conduct and behavioral standards |
+| Content Policy | `policies/content/content-policy.md` | Content eligibility, prohibited categories, AI training, takedown |
 | AI Chat Policy | `policies/ai-policy/ai-chat-policy.md` | AI feature use and processing rights |
 | Copyright Policy | `policies/ip/copyright-policy.md` | Copyright ownership and DMCA |
 | Trademark Policy | `policies/ip/trademark-policy.md` | Trademark use rules |
