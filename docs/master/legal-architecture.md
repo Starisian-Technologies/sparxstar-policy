@@ -80,9 +80,9 @@ Policy modules are standalone legal documents incorporated by reference into the
 | Shipping & Return Policy | `policies/commerce/shipping-return-policy.md` | Physical goods logistics |
 | Event Ticket Policy | `policies/events/event-ticket-policy.md` | Event ticketing |
 | Music Distribution Terms | `policies/music/music-distribution-terms.md` | Music distribution and royalties |
-| Streaming + Ebook Terms | `policies/licensing/streaming-ebook-terms.md` | Digital content access |
+| Streaming + Ebook Terms of Use | `policies/licensing/streaming-ebook-terms.md` | Digital content access |
 | Artifact Policy | `policies/artifact/artifact-policy.md` | Cultural artifact intake |
-| Tracking & Third Party Policy | `policies/licensing/tracking-third-party-policy.md` | Third-party tracking |
+| Tracking & Third-Party Licensing Policy | `policies/licensing/tracking-third-party-policy.md` | Third-party tracking |
 
 ### Module Dependency Rules
 
@@ -203,6 +203,8 @@ jurisdiction: [primary jurisdiction]
 supersedes: [prior version or "none"]
 ---
 ```
+
+YAML front matter is mandatory and supersedes any human-readable metadata table format.
 
 Version history is maintained per document and logged in [`docs/version-history/`](../version-history/).
 

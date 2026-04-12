@@ -9,7 +9,6 @@
     "purpose",
     "status",
     "jurisdictionScope",
-    "dependsOnMasterTerms",
     "draftingPriority",
     "filePath"
   ],
@@ -18,6 +17,15 @@
       "type": "string",
       "description": "Full name of the policy document.",
       "minLength": 1
+    },
+    "policyType": {
+      "type": "string",
+      "description": "Classifies the document as the umbrella master terms or a subsidiary module.",
+      "enum": [
+        "master",
+        "module"
+      ],
+      "default": "module"
     },
     "purpose": {
       "type": "string",
@@ -43,7 +51,7 @@
     },
     "dependsOnMasterTerms": {
       "type": "boolean",
-      "description": "Whether this policy is incorporated by reference into the Master Terms of Service."
+      "description": "Whether this policy is incorporated by reference into the Master Terms of Service. Must be false for policyType 'master'."
     },
     "draftingPriority": {
       "type": "integer",
@@ -87,6 +95,20 @@
         "type": "string"
       }
     }
+  },
+  "if": {
+    "properties": {
+      "policyType": { "const": "master" }
+    },
+    "required": ["policyType"]
+  },
+  "then": {
+    "properties": {
+      "dependsOnMasterTerms": { "const": false }
+    }
+  },
+  "else": {
+    "required": ["dependsOnMasterTerms"]
   },
   "additionalProperties": false
 }

@@ -1,17 +1,12 @@
-# Event Ticket Policy
-
+---
+version: 0.1.0
+date: 2026-04-12
+status: planned
+jurisdiction: California
+supersedes: none
 ---
 
-## Metadata
-
-| Field | Value |
-|---|---|
-| Version | 0.1.0 |
-| Date | 2026-04-12 |
-| Status | planned |
-| Jurisdiction | California (primary) |
-| Supersedes | none |
-| Maintainer | Starisian Technologies Legal |
+# Event Ticket Policy
 
 ---
 

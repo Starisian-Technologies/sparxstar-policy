@@ -1,19 +1,14 @@
+---
+version: 0.1.0
+date: 2026-04-12
+status: planned
+jurisdiction: California
+supersedes: none
+---
+
 # Consent Policy
 
 > Scaffold for the layered consent architecture governing user and content consent across all platform services.
-
----
-
-## Metadata
-
-| Field | Value |
-|---|---|
-| Version | 0.1.0 |
-| Date | 2026-04-12 |
-| Status | planned |
-| Jurisdiction | California (primary); global |
-| Supersedes | none |
-| Maintainer | Starisian Technologies Legal |
 
 ---
 
