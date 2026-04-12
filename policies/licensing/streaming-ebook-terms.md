@@ -6,7 +6,7 @@ jurisdiction: California
 supersedes: none
 ---
 
-# Streaming + Ebook Terms of Use
+# Streaming and Ebook Terms of Use
 
 ---
 

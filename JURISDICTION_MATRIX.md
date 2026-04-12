@@ -54,7 +54,7 @@ California law governs all matters unless an operational overlay explicitly modi
 | Requirement | Policy Impacted |
 |---|---|
 | CCPA consumer rights (access, deletion, opt-out of sale) | Privacy Policy; Cookie Policy |
-| CCPA "Do Not Sell My Personal Information" | Privacy Policy; Tracking Policy |
+| CCPA "Do Not Sell My Personal Information" | Privacy Policy; Tracking and Third-Party Licensing Policy |
 | California automatic renewal disclosures | Terms of Sale; Music Distribution Terms |
 | California DMCA designated agent registration | IP + DMCA Policy |
 | California biometric data restrictions | Privacy Policy |

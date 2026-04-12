@@ -192,7 +192,7 @@ Policy clause structures are modeled on established enterprise-grade legal frame
 
 ---
 
-### Streaming + Ebook Terms of Use
+### Streaming and Ebook Terms of Use
 
 | Clause Family | Primary Source Model | Secondary Source Model | Notes |
 |---|---|---|---|
@@ -215,7 +215,7 @@ Policy clause structures are modeled on established enterprise-grade legal frame
 
 ---
 
-### Tracking & Third Party Licensing Policy
+### Tracking and Third-Party Licensing Policy
 
 | Clause Family | Primary Source Model | Secondary Source Model | Notes |
 |---|---|---|---|

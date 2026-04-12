@@ -40,7 +40,7 @@
 | Purpose | Umbrella legal constitution governing all platform properties and all incorporated subsidiary policies |
 | Status | `planned` |
 | Jurisdiction Scope | California (primary); global use; Gambia operational overlay |
-| Depends on Master Terms | N/A — is the Master Terms |
+| Depends on Master Terms | false |
 | Drafting Priority | 1 — must be completed first |
 | File Path | `policies/master-terms/master-terms-of-service.md` |
 
@@ -214,11 +214,11 @@
 
 ---
 
-### 14. Streaming + Ebook Terms of Use
+### 14. Streaming and Ebook Terms of Use
 
 | Field | Value |
 |---|---|
-| Policy Name | Streaming + Ebook Terms of Use |
+| Policy Name | Streaming and Ebook Terms of Use |
 | Purpose | Governs user access rights, playback limitations, DRM enforcement, and geographic restrictions for streaming audio/video and ebook content |
 | Status | `planned` |
 | Jurisdiction Scope | California; global |
@@ -242,11 +242,11 @@
 
 ---
 
-### 16. Tracking & Third Party Licensing Policy
+### 16. Tracking and Third-Party Licensing Policy
 
 | Field | Value |
 |---|---|
-| Policy Name | Tracking & Third Party Licensing Policy |
+| Policy Name | Tracking and Third-Party Licensing Policy |
 | Purpose | Governs third-party tracking technologies, data broker relationships, and third-party licensing integrations |
 | Status | `planned` |
 | Jurisdiction Scope | California (CCPA); EU/GDPR placeholder; global |

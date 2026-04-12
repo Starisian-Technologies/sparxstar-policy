@@ -97,9 +97,9 @@ Master Terms of Service
 ├── Shipping and Return Policy
 ├── Event Ticket Policy
 ├── Music Distribution Terms
-├── Streaming + Ebook Terms of Use
+├── Streaming and Ebook Terms of Use
 ├── Artifact Policy
-└── Tracking & Third Party Licensing Policy
+└── Tracking and Third-Party Licensing Policy
 ```
 
 All subsidiary policies incorporate by reference into the Master Terms of Service.

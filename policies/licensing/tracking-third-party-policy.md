@@ -6,7 +6,7 @@ jurisdiction: California
 supersedes: none
 ---
 
-# Tracking & Third Party Licensing Policy
+# Tracking and Third-Party Licensing Policy
 
 ---
 

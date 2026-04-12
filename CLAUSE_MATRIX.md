@@ -122,7 +122,7 @@ Each row identifies:
 |---|---|
 | Clause Family | Revenue Participation |
 | Source Model | Spotify; TuneCore; YouTube monetization terms |
-| Appears In | Music Distribution Terms; Streaming + Ebook Terms; Artifact Policy; Community Policy |
+| Appears In | Music Distribution Terms; Streaming and Ebook Terms; Artifact Policy; Community Policy |
 | Required Customization | Revenue share tiers to be defined per content type; transparent royalty calculation; clear payment thresholds; Africa-specific payment method support required |
 | Priority | High |
 
@@ -158,7 +158,7 @@ Each row identifies:
 |---|---|
 | Clause Family | Data Privacy / Collection |
 | Source Model | Google Privacy Policy |
-| Appears In | Privacy Policy; Cookie Policy; Tracking & Third Party Licensing Policy |
+| Appears In | Privacy Policy; Cookie Policy; Tracking and Third-Party Licensing Policy |
 | Required Customization | CCPA rights (California); GDPR placeholder (EU); Gambia Data Protection Act overlay; biometric data rules; AI training data disclosure; children's data restrictions (COPPA) |
 | Priority | Critical |
 
@@ -170,7 +170,7 @@ Each row identifies:
 |---|---|
 | Clause Family | Cookie / Tracking Consent |
 | Source Model | Google Privacy Policy; Meta Platforms terms |
-| Appears In | Cookie Policy; Tracking & Third Party Licensing Policy; Consent Policy |
+| Appears In | Cookie Policy; Tracking and Third-Party Licensing Policy; Consent Policy |
 | Required Customization | Layered consent model (Icon/Audio → Plain language → Full legal text); opt-in for non-essential cookies; DVE enforcement layer integration; cross-device tracking disclosure |
 | Priority | High |
 
