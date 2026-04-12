@@ -6,7 +6,7 @@ jurisdiction: California
 supersedes: none
 ---
 
-# Shipping & Return Policy
+# Shipping and Return Policy
 
 ---
 

@@ -206,7 +206,7 @@ Each row identifies:
 |---|---|
 | Clause Family | Commerce / Payment |
 | Source Model | Amazon Terms; Stripe terms |
-| Appears In | Terms of Sale; Shipping & Return Policy; Event Ticket Policy |
+| Appears In | Terms of Sale; Shipping and Return Policy; Event Ticket Policy |
 | Required Customization | Stripe as primary payment processor; Africa-specific payment method disclosure; tax collection disclosures; refund policy by product category |
 | Priority | High |
 

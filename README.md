@@ -94,7 +94,7 @@ Master Terms of Service
 ├── IP + DMCA / DRM Compliance Policy
 ├── Consent Policy
 ├── Terms of Sale
-├── Shipping & Return Policy
+├── Shipping and Return Policy
 ├── Event Ticket Policy
 ├── Music Distribution Terms
 ├── Streaming + Ebook Terms of Use

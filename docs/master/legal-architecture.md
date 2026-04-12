@@ -77,7 +77,7 @@ Policy modules are standalone legal documents incorporated by reference into the
 | IP + DMCA / DRM Policy | `policies/ip/ip-dmca-drm-policy.md` | IP enforcement and DRM |
 | Consent Policy | `policies/consent/consent-policy.md` | Layered consent architecture |
 | Terms of Sale | `policies/commerce/terms-of-sale.md` | Commerce transactions |
-| Shipping & Return Policy | `policies/commerce/shipping-return-policy.md` | Physical goods logistics |
+| Shipping and Return Policy | `policies/commerce/shipping-return-policy.md` | Physical goods logistics |
 | Event Ticket Policy | `policies/events/event-ticket-policy.md` | Event ticketing |
 | Music Distribution Terms | `policies/music/music-distribution-terms.md` | Music distribution and royalties |
 | Streaming + Ebook Terms of Use | `policies/licensing/streaming-ebook-terms.md` | Digital content access |
@@ -205,6 +205,8 @@ supersedes: [prior version or "none"]
 ```
 
 YAML front matter is mandatory and supersedes any human-readable metadata table format.
+
+Symbols are not permitted in canonical policy titles. Use full words (e.g., `and` instead of `&`). Symbols may appear in UI display text, marketing copy, or navigation labels, but never in canonical document titles, manifest entries, or cross-reference tables.
 
 Version history is maintained per document and logged in [`docs/version-history/`](../version-history/).
 

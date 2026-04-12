@@ -157,7 +157,7 @@ Policy clause structures are modeled on established enterprise-grade legal frame
 
 ---
 
-### Shipping & Return Policy
+### Shipping and Return Policy
 
 | Clause Family | Primary Source Model | Secondary Source Model | Notes |
 |---|---|---|---|

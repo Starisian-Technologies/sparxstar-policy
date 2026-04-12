@@ -172,11 +172,11 @@
 
 ---
 
-### 11. Shipping & Return Policy
+### 11. Shipping and Return Policy
 
 | Field | Value |
 |---|---|
-| Policy Name | Shipping & Return Policy |
+| Policy Name | Shipping and Return Policy |
 | Purpose | Governs physical goods shipping, delivery, returns, and refunds for commerce transactions |
 | Status | `planned` |
 | Jurisdiction Scope | California; global (shipping) |
