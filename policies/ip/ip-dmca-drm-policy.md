@@ -1,4 +1,4 @@
-# Ip Dmca Drm Policy
+# IP + DMCA / DRM Compliance Policy
 
 ---
 

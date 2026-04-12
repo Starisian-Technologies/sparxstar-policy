@@ -1,4 +1,4 @@
-# Ai Chat Policy
+# AI Chat Policy
 
 ---
 
