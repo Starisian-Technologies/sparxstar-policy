@@ -79,8 +79,8 @@
 | Field | Value |
 |---|---|
 | Policy Name | Community Policy |
-| Purpose | Governs user conduct, content standards, moderation procedures, and enforcement across all platform community surfaces |
-| Status | `planned` |
+| Purpose | Governs user behavioral conduct, moderation procedures, prohibited conduct, and enforcement across all platform community surfaces |
+| Status | `drafting` |
 | Jurisdiction Scope | California (primary); global |
 | Depends on Master Terms | Yes |
 | Drafting Priority | 4 |

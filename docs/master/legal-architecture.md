@@ -231,4 +231,4 @@ This definition must be present in the Master Terms and referenced in all subsid
 
 ---
 
-*This architecture document is the authoritative reference for all policy drafting decisions.*
+*This architecture document is the authoritative reference for all policy drafting decisions. For the individual policy document structure (Policy Bundle format, four-layer authoring model, and drafting workflow), see [`docs/policy-authoring/POLICY_AUTHORING_SPEC.md`](../policy-authoring/POLICY_AUTHORING_SPEC.md).*
