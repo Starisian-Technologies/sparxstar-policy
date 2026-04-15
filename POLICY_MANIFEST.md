@@ -40,7 +40,7 @@
 | Purpose | Umbrella legal constitution governing all platform properties and all incorporated subsidiary policies |
 | Status | `planned` |
 | Jurisdiction Scope | California (primary); global use; Gambia operational overlay |
-| Depends on Master Terms | false |
+| Depends on Master Terms | `false` |
 | Drafting Priority | 1 — must be completed first |
 | File Path | `policies/master-terms/master-terms-of-service.md` |
 
@@ -54,7 +54,7 @@
 | Purpose | Governs collection, use, storage, and disclosure of user personal data across all platform properties |
 | Status | `planned` |
 | Jurisdiction Scope | California (CCPA); global; Gambia overlay; EU/GDPR placeholder |
-| Depends on Master Terms | Yes |
+| Depends on Master Terms | `true` |
 | Drafting Priority | 2 |
 | File Path | `policies/privacy/privacy-policy.md` |
 
@@ -68,7 +68,7 @@
 | Purpose | Governs use of cookies, tracking technologies, and third-party analytics across all platform surfaces |
 | Status | `planned` |
 | Jurisdiction Scope | California; EU/GDPR placeholder |
-| Depends on Master Terms | Yes |
+| Depends on Master Terms | `true` |
 | Drafting Priority | 3 |
 | File Path | `policies/cookies/cookie-policy.md` |
 
@@ -82,7 +82,7 @@
 | Purpose | Governs user behavioral conduct, moderation procedures, prohibited conduct, and enforcement across all platform community surfaces |
 | Status | `drafting` |
 | Jurisdiction Scope | California (primary); global |
-| Depends on Master Terms | Yes |
+| Depends on Master Terms | `true` |
 | Drafting Priority | 4 |
 | File Path | `policies/community/community-policy.md` |
 
@@ -96,7 +96,7 @@
 | Purpose | Governs use of AI-assisted features including chat, generation, and language processing within platform services |
 | Status | `planned` |
 | Jurisdiction Scope | California (primary); global |
-| Depends on Master Terms | Yes |
+| Depends on Master Terms | `true` |
 | Drafting Priority | 5 |
 | File Path | `policies/ai-policy/ai-chat-policy.md` |
 
@@ -110,7 +110,7 @@
 | Purpose | Establishes platform copyright ownership rules, user copyright retention, and DMCA complaint procedures |
 | Status | `planned` |
 | Jurisdiction Scope | California; United States federal copyright law; international |
-| Depends on Master Terms | Yes |
+| Depends on Master Terms | `true` |
 | Drafting Priority | 6 |
 | File Path | `policies/ip/copyright-policy.md` |
 
@@ -124,7 +124,7 @@
 | Purpose | Governs use of SPARXSTAR, AIWA, and related trademarks; defines permitted and prohibited uses by third parties |
 | Status | `planned` |
 | Jurisdiction Scope | California; United States federal trademark law |
-| Depends on Master Terms | Yes |
+| Depends on Master Terms | `true` |
 | Drafting Priority | 7 |
 | File Path | `policies/ip/trademark-policy.md` |
 
@@ -138,7 +138,7 @@
 | Purpose | Governs intellectual property rights, DMCA takedown procedures, and digital rights management enforcement |
 | Status | `planned` |
 | Jurisdiction Scope | United States (DMCA); California; international |
-| Depends on Master Terms | Yes |
+| Depends on Master Terms | `true` |
 | Drafting Priority | 8 |
 | File Path | `policies/ip/ip-dmca-drm-policy.md` |
 
@@ -152,7 +152,7 @@
 | Purpose | Governs layered consent architecture: icon/audio disclosures, plain language summaries, legal full text, and DVE governance enforcement |
 | Status | `planned` |
 | Jurisdiction Scope | California; global; Gambia overlay |
-| Depends on Master Terms | Yes |
+| Depends on Master Terms | `true` |
 | Drafting Priority | 9 |
 | File Path | `policies/consent/consent-policy.md` |
 
@@ -166,7 +166,7 @@
 | Purpose | Governs all commerce transactions on platform including digital goods, physical goods, and services |
 | Status | `planned` |
 | Jurisdiction Scope | California; global |
-| Depends on Master Terms | Yes |
+| Depends on Master Terms | `true` |
 | Drafting Priority | 10 |
 | File Path | `policies/commerce/terms-of-sale.md` |
 
@@ -180,7 +180,7 @@
 | Purpose | Governs physical goods shipping, delivery, returns, and refunds for commerce transactions |
 | Status | `planned` |
 | Jurisdiction Scope | California; global (shipping) |
-| Depends on Master Terms | Yes |
+| Depends on Master Terms | `true` |
 | Drafting Priority | 11 |
 | File Path | `policies/commerce/shipping-return-policy.md` |
 
@@ -194,7 +194,7 @@
 | Purpose | Governs sale, transfer, refund, and enforcement of event tickets across platform event services |
 | Status | `planned` |
 | Jurisdiction Scope | California; global |
-| Depends on Master Terms | Yes |
+| Depends on Master Terms | `true` |
 | Drafting Priority | 12 |
 | File Path | `policies/events/event-ticket-policy.md` |
 
@@ -208,7 +208,7 @@
 | Purpose | Governs distribution rights, royalties, metadata standards, and revenue participation for music submitted to platform distribution services |
 | Status | `planned` |
 | Jurisdiction Scope | California; international (distribution) |
-| Depends on Master Terms | Yes |
+| Depends on Master Terms | `true` |
 | Drafting Priority | 13 |
 | File Path | `policies/music/music-distribution-terms.md` |
 
@@ -222,7 +222,7 @@
 | Purpose | Governs user access rights, playback limitations, DRM enforcement, and geographic restrictions for streaming audio/video and ebook content |
 | Status | `planned` |
 | Jurisdiction Scope | California; global |
-| Depends on Master Terms | Yes |
+| Depends on Master Terms | `true` |
 | Drafting Priority | 14 |
 | File Path | `policies/licensing/streaming-ebook-terms.md` |
 
@@ -236,7 +236,7 @@
 | Purpose | Governs submission, storage, metadata, provenance, and rights assignment for cultural artifacts, linguistic data, and creative works submitted to platform artifact systems |
 | Status | `planned` |
 | Jurisdiction Scope | California; international; cultural overlay |
-| Depends on Master Terms | Yes |
+| Depends on Master Terms | `true` |
 | Drafting Priority | 15 |
 | File Path | `policies/artifact/artifact-policy.md` |
 
@@ -250,7 +250,7 @@
 | Purpose | Governs what content may exist on the platform and how it may be used, including prohibited categories, cultural restrictions, rights clearance, AI training eligibility, and takedown eligibility |
 | Status | `planned` |
 | Jurisdiction Scope | California (primary); global |
-| Depends on Master Terms | Yes |
+| Depends on Master Terms | `true` |
 | Drafting Priority | 16 |
 | File Path | `policies/content/content-policy.md` |
 
@@ -264,7 +264,7 @@
 | Purpose | Governs third-party tracking technologies, data broker relationships, and third-party licensing integrations |
 | Status | `planned` |
 | Jurisdiction Scope | California (CCPA); EU/GDPR placeholder; global |
-| Depends on Master Terms | Yes |
+| Depends on Master Terms | `true` |
 | Drafting Priority | 17 |
 | File Path | `policies/licensing/tracking-third-party-policy.md` |
 
