@@ -91,7 +91,7 @@ California law governs all matters unless an operational overlay explicitly modi
 | Role | Operational compliance overlay |
 | Governing Law | California governs; Gambia overlay modifies specific operational requirements |
 | Applicable Laws | Gambia Information and Communication Act; Gambia Data Protection Act (placeholder); Gambia Companies Act |
-| Governing Policies | Privacy Policy (data handling); Community Policy; Content Policy; Commerce overlay |
+| Governing Policies | Privacy Policy (data handling); Community Policy; Terms of Sale; Commerce overlay |
 | Status | `planned` — overlay drafting required |
 | Conflict Rule | Where Gambia law imposes a higher compliance standard, the Gambia standard applies for operations within Gambia; California governs all other matters |
 
