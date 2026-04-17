@@ -4,6 +4,11 @@ date: 2026-04-12
 status: planned
 jurisdiction: California
 supersedes: none
+policyType: module
+dependsOnMasterTerms: true
+sourceModels:
+  - Google Privacy Policy
+  - OpenAI Privacy Policy
 ---
 
 # Privacy Policy

@@ -4,6 +4,9 @@ date: 2026-04-12
 status: planned
 jurisdiction: California
 supersedes: none
+policyType: master
+dependsOnMasterTerms: false
+sourceModels: []
 ---
 
 # Master Terms of Service
