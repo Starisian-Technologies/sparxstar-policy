@@ -91,7 +91,7 @@ Master Terms of Service
 ├── AI Chat Policy
 ├── Copyright Policy
 ├── Trademark Policy
-├── IP + DMCA / DRM Compliance Policy
+├── Intellectual Property Digital Millennium Copyright Act Digital Rights Management Compliance Policy
 ├── Consent Policy
 ├── Terms of Sale
 ├── Shipping and Return Policy

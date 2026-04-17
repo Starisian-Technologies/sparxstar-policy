@@ -194,7 +194,7 @@ Each row identifies:
 |---|---|
 | Clause Family | DMCA Takedown |
 | Source Model | Standard 17 U.S.C. § 512 compliance framework |
-| Appears In | IP + DMCA / DRM Compliance Policy; Copyright Policy |
+| Appears In | Intellectual Property Digital Millennium Copyright Act Digital Rights Management Compliance Policy; Copyright Policy |
 | Required Customization | Designated agent registration; 512(c) safe harbor preservation; counter-notice procedure; repeat infringer policy; cultural content review prior to takedown |
 | Priority | High |
 

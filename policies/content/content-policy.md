@@ -48,7 +48,7 @@ Content Policy covers:
 
 - Incorporates by reference: **Master Terms of Service**
 - Operates alongside: **Community Policy** (behavioral conduct)
-- Feeds into: **Intellectual Property and DMCA Policy**, **AI Chat Policy**, **Artifact Policy**
+- Feeds into: **Intellectual Property Digital Millennium Copyright Act Digital Rights Management Compliance Policy**, **AI Chat Policy**, **Artifact Policy**
 - Subject to: **Jurisdiction Overlays** (Gambia, EU/GDPR)
 - Subject to: **Cultural Protocol Overlays** (TK Label Framework, Cultural Withdrawal Protocol)
 

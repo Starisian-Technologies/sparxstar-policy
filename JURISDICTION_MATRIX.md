@@ -56,7 +56,7 @@ California law governs all matters unless an operational overlay explicitly modi
 | CCPA consumer rights (access, deletion, opt-out of sale) | Privacy Policy; Cookie Policy |
 | CCPA "Do Not Sell My Personal Information" | Privacy Policy; Tracking and Third-Party Licensing Policy |
 | California automatic renewal disclosures | Terms of Sale; Music Distribution Terms |
-| California DMCA designated agent registration | IP + DMCA / DRM Compliance Policy |
+| California DMCA designated agent registration | Intellectual Property Digital Millennium Copyright Act Digital Rights Management Compliance Policy |
 | California biometric data restrictions | Privacy Policy |
 | Los Angeles County venue clause | Master Terms; Terms of Sale; Event Ticket Policy |
 
@@ -69,14 +69,14 @@ California law governs all matters unless an operational overlay explicitly modi
 | Jurisdiction | United States Federal |
 | Role | Supporting federal law framework |
 | Federal Laws Applicable | DMCA (17 U.S.C. § 512); CAN-SPAM; COPPA; FTC Act |
-| Governing Policies | IP + DMCA / DRM Compliance Policy; Privacy Policy (COPPA provisions); Community Policy |
+| Governing Policies | Intellectual Property Digital Millennium Copyright Act Digital Rights Management Compliance Policy; Privacy Policy (COPPA provisions); Community Policy |
 | Status | `active` — federal law applies where applicable |
 
 #### US Federal Requirements
 
 | Requirement | Policy Impacted |
 |---|---|
-| DMCA safe harbor (17 U.S.C. § 512) | IP + DMCA / DRM Compliance Policy |
+| DMCA safe harbor (17 U.S.C. § 512) | Intellectual Property Digital Millennium Copyright Act Digital Rights Management Compliance Policy |
 | COPPA (children under 13 data restrictions) | Privacy Policy |
 | CAN-SPAM (email marketing) | Privacy Policy |
 | FTC endorsement and disclosure rules | Community Policy; AI Chat Policy |

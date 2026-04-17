@@ -130,11 +130,11 @@
 
 ---
 
-### 8. IP + DMCA / DRM Compliance Policy
+### 8. Intellectual Property Digital Millennium Copyright Act Digital Rights Management Compliance Policy
 
 | Field | Value |
 |---|---|
-| Policy Name | IP + DMCA / DRM Compliance Policy |
+| Policy Name | Intellectual Property Digital Millennium Copyright Act Digital Rights Management Compliance Policy |
 | Purpose | Governs intellectual property rights, DMCA takedown procedures, and digital rights management enforcement |
 | Status | `planned` |
 | Jurisdiction Scope | United States (DMCA); California; international |

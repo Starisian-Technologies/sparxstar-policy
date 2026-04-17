@@ -75,7 +75,7 @@ Policy modules are standalone legal documents incorporated by reference into the
 | AI Chat Policy | `policies/ai-policy/ai-chat-policy.md` | AI feature use and processing rights |
 | Copyright Policy | `policies/ip/copyright-policy.md` | Copyright ownership and DMCA |
 | Trademark Policy | `policies/ip/trademark-policy.md` | Trademark use rules |
-| IP + DMCA / DRM Compliance Policy | `policies/ip/ip-dmca-drm-policy.md` | IP enforcement and DRM |
+| Intellectual Property Digital Millennium Copyright Act Digital Rights Management Compliance Policy | `policies/ip/ip-dmca-drm-policy.md` | IP enforcement and DRM |
 | Consent Policy | `policies/consent/consent-policy.md` | Layered consent architecture |
 | Terms of Sale | `policies/commerce/terms-of-sale.md` | Commerce transactions |
 | Shipping and Return Policy | `policies/commerce/shipping-return-policy.md` | Physical goods logistics |

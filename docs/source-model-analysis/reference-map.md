@@ -123,7 +123,7 @@ Policy clause structures are modeled on established enterprise-grade legal frame
 
 ---
 
-### IP + DMCA / DRM Compliance Policy
+### Intellectual Property Digital Millennium Copyright Act Digital Rights Management Compliance Policy
 
 | Clause Family | Primary Source Model | Secondary Source Model | Notes |
 |---|---|---|---|
