@@ -113,8 +113,8 @@ The following jurisdiction-specific overlays modify this Policy for users in tho
 
 | Jurisdiction | Overlay Document | Key Modification |
 |---|---|---|
-| European Union (GDPR) | `docs/jurisdictions/eu-gdpr-overlay.md` | Placeholder — drafting required |
-| Republic of The Gambia | `docs/jurisdictions/gambia-overlay.md` | Placeholder — drafting required |
+| European Union (GDPR) | TBD — create `docs/jurisdictions/eu-gdpr-overlay.md` before publication | Placeholder — drafting required |
+| Republic of The Gambia | TBD — create `docs/jurisdictions/gambia-overlay.md` before publication | Placeholder — drafting required |
 
 ---
 
