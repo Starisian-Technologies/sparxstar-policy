@@ -123,7 +123,7 @@ Layers 1, 2, and 3 are **required** for every policy. Layer 4 is optional and us
 
 **Requirements:**
 - YAML front-matter block at the top of every policy file.
-- All fields defined in `schemas/policy-bundle.schema.json` must be present.
+- All fields defined in `schemas/policy-manifest.schema.json` must be present.
 - `status` must reflect the current lifecycle stage of the document.
 - `version` must be updated whenever Layer 1 or Layer 2 changes.
 
