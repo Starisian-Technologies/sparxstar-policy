@@ -123,12 +123,14 @@ Layers 1, 2, and 3 are **required** for every policy. Layer 4 is optional and us
 
 **Requirements:**
 - YAML front-matter block at the top of every policy file.
-- All fields defined in `schemas/policy-manifest.schema.json` must be present.
+- Every policy file must include the policy front-matter fields defined for policy documents: `version`, `date`, `status`, `jurisdiction`, `supersedes`, `policyType`, and `dependsOnMasterTerms`.
+- `schemas/policy-manifest.schema.json` applies to manifest or index entries that reference policy files; it does not define the YAML front-matter schema for individual policy documents.
 - `status` must reflect the current lifecycle stage of the document.
 - `version` must be updated whenever Layer 1 or Layer 2 changes.
 
 **Format:**
 
+The following YAML front-matter illustrates the required policy-file metadata fields:
 ```yaml
 ---
 version: 0.1.0
