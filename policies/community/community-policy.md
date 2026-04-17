@@ -146,7 +146,7 @@ This Policy is governed by the laws of the State of California, United States, w
 
 ### 9. Changes to This Policy
 
-The Company reserves the right to amend this Policy at any time. Material changes will be communicated to Users by platform notification and by updating the effective date in the YAML metadata above. Continued use of the Platform following notice of a change constitutes acceptance of the updated Policy.
+The Company reserves the right to amend this Policy at any time. Material changes will be communicated to Users by platform notification and by updating the `date` field in the YAML metadata above. Continued use of the Platform following notice of a change constitutes acceptance of the updated Policy.
 
 ---
 
