@@ -134,3 +134,16 @@ For content subject to TK restrictions, consent must escalate beyond standard us
 ---
 
 *This scaffold must be developed in coordination with legal counsel, platform engineering, and cultural governance advisors.*
+
+
+---
+
+## Plain Language Summary
+
+> **Drafting pending.** Plain-language explanation for users, artists, and contributors will go here (Grade 8 reading level). See [`docs/policy-authoring/POLICY_BUNDLE_TEMPLATE.md`](../../docs/policy-authoring/POLICY_BUNDLE_TEMPLATE.md) for the required format.
+
+---
+
+## Full Legal Text
+
+> **Drafting pending.** Formally enforceable legal text will go here. See [`docs/policy-authoring/POLICY_BUNDLE_TEMPLATE.md`](../../docs/policy-authoring/POLICY_BUNDLE_TEMPLATE.md) for the required format.

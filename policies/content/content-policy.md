@@ -55,3 +55,16 @@ Content Policy covers:
 ---
 
 *Drafting pending legal review and platform scope confirmation.*
+
+
+---
+
+## Plain Language Summary
+
+> **Drafting pending.** Plain-language explanation for users, artists, and contributors will go here (Grade 8 reading level). See [`docs/policy-authoring/POLICY_BUNDLE_TEMPLATE.md`](../../docs/policy-authoring/POLICY_BUNDLE_TEMPLATE.md) for the required format.
+
+---
+
+## Full Legal Text
+
+> **Drafting pending.** Formally enforceable legal text will go here. See [`docs/policy-authoring/POLICY_BUNDLE_TEMPLATE.md`](../../docs/policy-authoring/POLICY_BUNDLE_TEMPLATE.md) for the required format.
