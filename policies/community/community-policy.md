@@ -139,8 +139,8 @@ This Policy is governed by the laws of the State of California, United States, w
 
 | Jurisdiction | Overlay Document | Key Modification |
 |---|---|---|
-| European Union (GDPR) | `docs/jurisdictions/eu-gdpr-overlay.md` | Placeholder — drafting required |
-| Republic of The Gambia | `docs/jurisdictions/gambia-overlay.md` | Placeholder — drafting required |
+| European Union (GDPR) | Pending — overlay document not yet created | Placeholder — drafting required |
+| Republic of The Gambia | Pending — overlay document not yet created | Placeholder — drafting required |
 
 ---
 
