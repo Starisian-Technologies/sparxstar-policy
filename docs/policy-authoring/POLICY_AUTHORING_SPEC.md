@@ -238,9 +238,9 @@ See `docs/policy-authoring/POLICY_BUNDLE_TEMPLATE.md` for the canonical template
 
 ## Relationship to the Schema
 
-`schemas/policy-bundle.schema.json` validates the Layer 3 machine metadata (YAML front-matter fields). The schema does not validate Layer 1 or Layer 2 content — those layers are reviewed by humans and lawyers.
+Layer 3 machine metadata (the YAML front-matter fields) for individual policy files is governed by this specification. No repository schema currently validates those fields for individual policy files. Layer 1 and Layer 2 content are not schema-validated and must be reviewed by humans and lawyers.
 
-The prior `schemas/policy-manifest.schema.json` validated a flat manifest representation of policy entries. That file remains valid for the root `POLICY_MANIFEST.md` document but does not govern the structure of individual policy files. Individual policy files are governed by this specification.
+The prior `schemas/policy-manifest.schema.json` validates a flat manifest representation of policy entries. That file remains valid for the root `POLICY_MANIFEST.md` document but does not govern the structure of individual policy files. Individual policy files are governed by this specification unless and until a dedicated policy-bundle schema is added to the repository.
 
 ---
 
