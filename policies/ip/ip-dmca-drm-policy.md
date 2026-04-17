@@ -6,7 +6,7 @@ jurisdiction: California
 supersedes: none
 ---
 
-# IP + DMCA / DRM Compliance Policy
+# Intellectual Property Digital Millennium Copyright Act Digital Rights Management Compliance Policy
 
 ---
 
