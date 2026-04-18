@@ -207,7 +207,7 @@ supersedes: [prior version or "none"]
 
 YAML front matter is mandatory and supersedes any human-readable metadata table format.
 
-Symbols are not permitted in canonical policy titles. Use full words (e.g., `and` instead of `&` or `+`). Symbols may appear in UI display text, marketing copy, or navigation labels, but never in canonical document titles, manifest entries, or cross-reference tables.
+Symbols and abbreviations are not permitted in canonical policy titles. Use full words only (e.g., `and` instead of `&`, `+`, or `/`, and never abbreviations). Symbols may appear in UI display text, marketing copy, or navigation labels, but never in canonical document titles, manifest entries, or cross-reference tables.
 
 Version history is maintained per document and logged in [`docs/version-history/`](../version-history/).
 
