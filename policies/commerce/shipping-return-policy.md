@@ -2,7 +2,7 @@
 version: 0.1.0
 date: 2026-04-12
 status: planned
-policyType: shipping-return-policy
+policyType: module
 dependsOnMasterTerms: true
 jurisdiction: California
 supersedes: none
