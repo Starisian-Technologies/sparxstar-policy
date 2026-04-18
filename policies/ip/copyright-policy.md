@@ -1,40 +1,394 @@
 ---
 version: 0.1.0
-date: 2026-04-12
-status: planned
+date: 2026-04-18
+status: drafting
 jurisdiction: California
 supersedes: none
 policyType: module
 dependsOnMasterTerms: true
+sourceModels:
+  - YouTube/Google DMCA Framework
+  - GitHub Takedown Structure
+  - WIPO Principles
 ---
 
 # Copyright Policy
 
----
+> **Layer 1 — Plain Language Summary**
+> **Layer 2 — Full Legal Text**
+> **Layer 4 — Attestation Record** (added when `status: active`)
 
-## Status
-
-This document is a **placeholder**. Drafting has not yet commenced.
-
-See [POLICY_MANIFEST.md](../../POLICY_MANIFEST.md) for drafting priority and dependencies.
-
-See [CLAUSE_MATRIX.md](../../CLAUSE_MATRIX.md) for clause families applicable to this policy.
-
-See [docs/source-model-analysis/reference-map.md](../../docs/source-model-analysis/reference-map.md) for source models applicable to this policy.
-
----
-
-*Await drafting instruction before adding policy content.*
-
+*This document is a draft for lawyer review. It has not been reviewed by legal counsel and does not constitute legal advice.*
 
 ---
 
 ## Plain Language Summary
 
-> **Drafting pending.** Plain-language explanation for users, artists, and contributors will go here (Grade 8 reading level). See [`docs/policy-authoring/POLICY_BUNDLE_TEMPLATE.md`](../../docs/policy-authoring/POLICY_BUNDLE_TEMPLATE.md) for the required format.
+**What this policy is about**
+
+This policy explains who owns the creative work you upload to SPARXSTAR, how we can use it, and what happens if someone copies your work without permission.
+
+**You keep your copyright**
+
+When you upload a photo, song, video, written piece, or any other original work to SPARXSTAR, you still own it. We do not take ownership of your work. Your copyright stays with you.
+
+**You give us a license to run the platform**
+
+To host your content and make the platform work, you give us permission — called a license — to store, display, process, and share your content as part of running SPARXSTAR. This does not mean we own your work. It just means we can use it to power the service.
+
+**We own our own stuff**
+
+We own the SPARXSTAR software, the design of the platform, and the systems we built. We also own structured data systems we create — like organized databases, curated word lists, and AI-generated outputs our platform produces. We do **not** own individual words or publicly known language facts.
+
+**You cannot upload things you do not own**
+
+Only upload content you created yourself or have permission to share. Do not upload music, images, videos, articles, or other works that belong to someone else without their permission.
+
+**How to report copyright infringement**
+
+If someone posted your work on SPARXSTAR without your permission, you can send us a formal copyright takedown notice. Your notice needs to:
+
+- Describe the work that was copied
+- Tell us where the copy is located on our platform
+- Confirm you own the work or represent the owner
+- State that you believe in good faith that the use is not authorized
+- Sign the notice
+
+We will review it and remove the content if the notice is valid.
+
+**The takedown process**
+
+Once we receive a valid notice, we will remove the content quickly and notify the person who uploaded it. That person may send us a counter-notice if they believe they have the right to use the work. If they do, we may restore the content after a waiting period, unless you take legal action.
+
+**Repeat infringers**
+
+If someone keeps violating copyright on our platform, we will suspend or terminate their account.
+
+**Cultural content**
+
+Before removing content that may be part of a cultural or traditional knowledge tradition, we may take extra time to review it carefully.
 
 ---
 
 ## Full Legal Text
 
-> **Drafting pending.** Formally enforceable legal text will go here. See [`docs/policy-authoring/POLICY_BUNDLE_TEMPLATE.md`](../../docs/policy-authoring/POLICY_BUNDLE_TEMPLATE.md) for the required format.
+### Section 1 — Definitions
+
+For purposes of this Copyright Policy, the following terms have the meanings set forth below:
+
+1.1 **"Copyright"** means the exclusive legal rights granted to the creator of an original work of authorship under 17 U.S.C. § 101 et seq. and applicable international copyright law, including the rights to reproduce, distribute, display, perform, and create derivative works from the protected expression.
+
+1.2 **"Copyrighted Work"** means any original work of authorship fixed in a tangible medium of expression that is protected by copyright law, including without limitation literary works, musical works, dramatic works, pictorial and graphic works, audiovisual works, sound recordings, and architectural works.
+
+1.3 **"User Content"** means any content, data, works of authorship, materials, information, or other submissions that a User uploads, posts, transmits, publishes, or otherwise makes available on or through the Platform, including but not limited to text, audio recordings, musical compositions, photographs, videos, artwork, annotations, translations, and metadata.
+
+1.4 **"Platform Content"** means content created, developed, compiled, or generated by Starisian Technologies or its authorized agents in connection with the Platform, including the Platform's software, user interface design, proprietary systems, structured datasets, semantic mappings, curated lexicons, compilations, arrangements, and AI-generated outputs produced by the Platform's systems.
+
+1.5 **"Derivative Work"** has the meaning ascribed to it under 17 U.S.C. § 101, meaning a work based upon one or more preexisting works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted.
+
+1.6 **"Infringing Content"** means any content that violates or is alleged to violate the copyright rights of a third party, including User Content uploaded, posted, or transmitted without authorization from the rights holder.
+
+1.7 **"DMCA"** means the Digital Millennium Copyright Act, as codified at 17 U.S.C. §§ 512, 1201–1205, and 1301–1332, and any regulations promulgated thereunder.
+
+1.8 **"Designated Agent"** means the agent designated by Starisian Technologies to receive DMCA takedown notifications and counter-notices pursuant to 17 U.S.C. § 512(c)(2), as registered with the United States Copyright Office.
+
+1.9 **"Structured Dataset"** means any organized collection of data, linguistic entries, semantic associations, annotations, classifications, or curated materials that has been compiled, arranged, or derived by or through the Platform's systems, and in which the Platform holds protectable intellectual property rights as a compilation or database under applicable law, regardless of whether individual constituent elements are themselves protectable.
+
+1.10 **"Platform"** means the SPARXSTAR platform and associated services operated by Starisian Technologies, including all subdomains, APIs, applications, and integrated services.
+
+1.11 **"User"** means any individual or entity who accesses, registers for, or uses the Platform.
+
+1.12 **"Starisian Technologies"** means Starisian Technologies, the legal entity that owns and operates the Platform.
+
+1.13 **"WIPO"** means the World Intellectual Property Organization.
+
+---
+
+### Section 2 — Platform Copyright Ownership
+
+**2.1 Platform-Owned Works**
+
+Starisian Technologies owns all intellectual property rights, including copyright, in and to the following Platform Content:
+
+  (a) The Platform's software code, including source code, object code, algorithms, APIs, and related technical documentation;
+
+  (b) The Platform's user interface design, visual design, information architecture, and user experience systems;
+
+  (c) Proprietary systems, processes, and methodologies developed by Starisian Technologies for the operation of the Platform;
+
+  (d) Structured datasets created by or through the Platform, including organized collections of linguistic data, semantic mappings, curated lexicons, terminological databases, and annotated corpora, as compilations or databases protected under 17 U.S.C. § 101 and applicable international database protection law;
+
+  (e) Semantic mappings and structured ontological frameworks developed by or through the Platform;
+
+  (f) Curated lexicons, controlled vocabularies, classification hierarchies, and organized terminology systems developed by or through the Platform;
+
+  (g) Platform-generated outputs produced by artificial intelligence, machine learning, or other automated systems operated by Starisian Technologies or its authorized agents, to the extent such outputs are protectable under applicable law;
+
+  (h) Compilations and arrangements of data, content, or information created by Starisian Technologies, where such compilations reflect original selection, coordination, or arrangement;
+
+  (i) Marketing materials, visual branding assets, training materials, and other works authored by Starisian Technologies employees or qualifying contractors as works made for hire.
+
+**2.2 Works Made for Hire**
+
+The work-made-for-hire doctrine, as defined under 17 U.S.C. § 101, applies exclusively to works created by: (a) employees of Starisian Technologies acting within the scope of their employment; (b) independent contractors who have executed a written work-made-for-hire agreement with Starisian Technologies for a qualifying category of specially commissioned work; and (c) expressly contracted productions where an executed written agreement designates the work as a work made for hire. The work-made-for-hire doctrine does not apply to User Content submitted by ordinary Platform users in the absence of a separate written agreement expressly establishing work-made-for-hire status.
+
+**2.3 Exclusions from Platform Ownership**
+
+Notwithstanding Section 2.1, Starisian Technologies expressly does not claim copyright ownership in:
+
+  (a) Individual words, morphemes, phonemes, or other atomic linguistic units, which are not protectable by copyright;
+
+  (b) Public language facts, grammatical rules, syntactic structures, or other elements of language that are in the public domain or otherwise not protectable by copyright;
+
+  (c) User-submitted original works, as further described in Section 3;
+
+  (d) Ideas, concepts, methods, procedures, processes, systems, principles, or discoveries, regardless of the form in which they are described or explained, consistent with 17 U.S.C. § 102(b).
+
+**2.4 Structured Dataset Distinction**
+
+Individual words are not owned by the Platform; however, structured linguistic datasets, semantic mappings, curated lexicons, annotations, and proprietary arrangements created through the Platform are proprietary assets of the Platform. The Platform's ownership interest arises from the original selection, coordination, arrangement, and compilation of such materials as a whole, and does not extend to the constituent individual words or public domain elements contained therein.
+
+---
+
+### Section 3 — User Copyright Retention and License Grant
+
+**3.1 User Retention of Copyright**
+
+Users retain full copyright ownership in their original works of authorship submitted as User Content to the Platform. Nothing in this Copyright Policy or the Platform's Terms of Service shall be construed to transfer, assign, or divest Users of their copyright in their original User Content. The Platform's use of User Content pursuant to the license grant in Section 3.2 does not constitute a transfer of ownership.
+
+**3.2 License Grant to Platform**
+
+By submitting User Content to the Platform, each User grants to Starisian Technologies a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to:
+
+  (a) Host, store, reproduce, and transmit the User Content in connection with the operation and delivery of the Platform;
+
+  (b) Display, perform, and distribute the User Content to authorized users of the Platform in accordance with the User's privacy and sharing settings;
+
+  (c) Format, reformat, transcode, compress, adapt, and technically transform the User Content as reasonably necessary for platform compatibility, optimization, accessibility, and delivery;
+
+  (d) Process, index, analyze, and use the User Content as an input to the Platform's AI systems, machine learning models, natural language processing systems, and data analytics functions, subject to applicable privacy policies and data processing agreements;
+
+  (e) Incorporate User Content into the Platform's structured datasets, training corpora, semantic mapping systems, and curated lexicons, provided that the Platform's rights in resulting structured compilations arise from the Platform's original arrangement and not from ownership of the User's underlying expression;
+
+  (f) Create derivative works from User Content to the extent strictly necessary for technical platform operations, including generating metadata, thumbnails, summaries, translations where authorized, and search indexes;
+
+  (g) Sublicense the foregoing rights to third-party service providers, infrastructure providers, and authorized partners acting on behalf of Starisian Technologies in connection with Platform operations.
+
+**3.3 Scope and Duration of License**
+
+The license granted in Section 3.2 is limited to the purposes of operating, improving, and delivering the Platform and its services. The license remains in effect for the duration of the User's use of the Platform and, with respect to content already incorporated into structured datasets or distributed through the Platform's delivery infrastructure, for such additional period as is technically necessary to complete removal and de-indexing. Users may request deletion of their User Content in accordance with the Platform's Privacy Policy and applicable data rights.
+
+**3.4 User Representations and Warranties**
+
+By submitting User Content, each User represents and warrants that:
+
+  (a) The User is the sole and original author of the User Content, or has obtained all necessary rights, licenses, consents, and permissions from all rights holders to submit the User Content to the Platform and to grant the license set forth in Section 3.2;
+
+  (b) The User Content does not infringe the copyright, trademark, trade secret, moral right, or other intellectual property right of any third party;
+
+  (c) The User has the full legal authority to enter into the license grant set forth in Section 3.2;
+
+  (d) The User Content does not violate any applicable law or regulation.
+
+---
+
+### Section 4 — Copyright Infringement Prohibitions
+
+**4.1 Prohibited Conduct**
+
+Users are prohibited from engaging in the following conduct on or through the Platform:
+
+  (a) Uploading, posting, transmitting, or otherwise making available any content that infringes the copyright of any third party, including without limitation uploading content owned by another person or entity without authorization;
+
+  (b) Submitting content you do not own or for which you have not obtained the required licenses, rights, consents, or permissions from the copyright holder;
+
+  (c) Removing, altering, concealing, or deleting any copyright management information, copyright notices, trademark notices, watermarks, or other proprietary notices affixed to or embedded in any content, whether User Content or Platform Content;
+
+  (d) Circumventing, removing, deactivating, descrambling, decrypting, or otherwise defeating any digital rights management (DRM) technology, access control measure, or copy protection mechanism applied to Platform Content or third-party content on the Platform;
+
+  (e) Creating, distributing, or making available Derivative Works based on third-party copyrighted content without authorization from the rights holder;
+
+  (f) Knowingly inducing, facilitating, or materially contributing to copyright infringement by other Users of the Platform;
+
+  (g) Using the Platform to reproduce and distribute copyrighted works in a manner that exceeds the scope of any license granted to the User or applicable fair use, fair dealing, or other copyright exception.
+
+**4.2 Consequences of Infringement**
+
+Violation of Section 4.1 may result in one or more of the following actions at Starisian Technologies' discretion: (a) removal of Infringing Content; (b) issuance of a warning; (c) temporary suspension of the User's account; (d) permanent termination of the User's account; (e) referral to law enforcement or rights holders; and (f) civil or criminal liability under applicable law.
+
+---
+
+### Section 5 — DMCA Takedown Notice Procedure
+
+**5.1 Designated Agent**
+
+Starisian Technologies has designated an agent to receive notifications of claimed copyright infringement under 17 U.S.C. § 512(c)(2). The Designated Agent's contact information is as follows:
+
+> **DMCA Designated Agent**
+> Starisian Technologies
+> [Legal Department / Designated Agent Name — To Be Completed]
+> [Mailing Address — To Be Completed]
+> [Email Address — To Be Completed]
+> [Phone Number — To Be Completed]
+
+Starisian Technologies' Designated Agent is registered with the United States Copyright Office in accordance with 17 U.S.C. § 512(c)(2) and 37 C.F.R. § 201.38.
+
+**5.2 Required Elements of a Valid DMCA Takedown Notice**
+
+To be valid under 17 U.S.C. § 512(c)(3), a written DMCA takedown notice submitted to the Designated Agent must include all of the following elements:
+
+  (a) **Identification of the Copyrighted Work** — A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. A description of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site.
+
+  (b) **Identification of Infringing Material** — Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, along with information reasonably sufficient to permit Starisian Technologies to locate the material on the Platform, including the specific URL or other precise locator.
+
+  (c) **Contact Information** — Information reasonably sufficient to permit Starisian Technologies to contact the complaining party, including the name, address, telephone number, and, if available, electronic mail address of the complaining party.
+
+  (d) **Good Faith Statement** — A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or applicable law.
+
+  (e) **Accuracy and Authorization Statement** — A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+  (f) **Signature** — A physical or electronic signature of the copyright owner or a person authorized to act on behalf of the copyright owner.
+
+**5.3 Submission of Takedown Notices**
+
+Takedown notices must be submitted to the Designated Agent by email, mail, or other method specified by the Designated Agent. Notices submitted through general Platform support channels may not receive expeditious DMCA handling. Starisian Technologies recommends using the email address designated for DMCA notices to ensure prompt processing.
+
+**5.4 Platform Response Procedure**
+
+Upon receipt of a complete and valid DMCA takedown notice, Starisian Technologies shall:
+
+  (a) Review the notice to assess whether it satisfies all statutory requirements under 17 U.S.C. § 512(c)(3);
+
+  (b) Expeditiously remove or disable access to the allegedly Infringing Content identified in the notice, consistent with the Platform's obligations under 17 U.S.C. § 512;
+
+  (c) Notify the User who uploaded the allegedly Infringing Content that the content has been removed or disabled and provide the User with a copy of the takedown notice or a summary of its contents, except where disclosure is prohibited by law;
+
+  (d) Document the takedown action for purposes of repeat infringer tracking under Section 5.7.
+
+**5.5 Incomplete Notices**
+
+If a submitted notice fails to substantially comply with the requirements of 17 U.S.C. § 512(c)(3), Starisian Technologies may, at its discretion: (a) notify the submitting party of the deficiencies and request supplemental information; or (b) decline to process the notice. Starisian Technologies has no obligation to act upon materially deficient notices.
+
+**5.6 Counter-Notice Procedure**
+
+A User whose content has been removed pursuant to a DMCA takedown notice may submit a counter-notice if the User believes in good faith that the content was removed as a result of mistake or misidentification. A valid counter-notice must include all of the following elements under 17 U.S.C. § 512(g)(3):
+
+  (a) **Identification of Removed Content** — Identification of the material that has been removed or to which access has been disabled, and the location at which the material appeared before it was removed or access to it was disabled, including the specific URL or other identifier.
+
+  (b) **Statement Under Penalty of Perjury** — A statement under penalty of perjury that the User has a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled.
+
+  (c) **Consent to Jurisdiction** — The User's name, address, and telephone number, and a statement that the User consents to the jurisdiction of the Federal District Court for the judicial district in which the User's address is located, or if the User's address is outside of the United States, for any judicial district in which Starisian Technologies may be found, and that the User will accept service of process from the person who provided the original DMCA notice or an agent of such person.
+
+  (d) **Signature** — A physical or electronic signature of the User.
+
+Counter-notices must be submitted to the Designated Agent at the contact information set forth in Section 5.1.
+
+**5.7 Platform Response to Counter-Notices**
+
+Upon receipt of a valid counter-notice, Starisian Technologies shall:
+
+  (a) Promptly provide the original complaining party with a copy of the counter-notice and inform the complaining party that Starisian Technologies will restore access to the removed material in ten (10) to fourteen (14) business days unless the complaining party files an action seeking a court order to restrain the User from engaging in infringing activity relating to the material on the Platform;
+
+  (b) Restore access to the removed material within the ten (10) to fourteen (14) business day period described above unless Starisian Technologies receives notice that the complaining party has filed such a court action.
+
+**5.8 Repeat Infringer Policy**
+
+Consistent with 17 U.S.C. § 512(i)(1)(A), Starisian Technologies maintains a policy of terminating, in appropriate circumstances, the accounts of Users who are repeat infringers. Starisian Technologies tracks DMCA takedown actions and, at its discretion, will suspend or permanently terminate accounts of Users who have had content removed on multiple occasions for copyright infringement. Starisian Technologies reserves the right to determine what constitutes a "repeat infringer" in its reasonable judgment, taking into account the totality of circumstances.
+
+**5.9 Safe Harbor Preservation**
+
+Starisian Technologies operates as a service provider within the meaning of 17 U.S.C. § 512 and intends to maintain its eligibility for the safe harbor protections afforded to online service providers under 17 U.S.C. § 512(b), (c), and (d). Nothing in this Copyright Policy constitutes a waiver of Starisian Technologies' safe harbor protections under the DMCA. Starisian Technologies' response to DMCA notices shall be construed to preserve, and not to waive, such protections.
+
+---
+
+### Section 6 — Misuse of DMCA Process
+
+**6.1 False Notices**
+
+Submitting a knowingly false or materially misleading DMCA takedown notice or counter-notice may subject the submitting party to liability under 17 U.S.C. § 512(f), including liability for damages (including costs and attorneys' fees) incurred by the affected User, Starisian Technologies, or other affected parties. Starisian Technologies reserves the right to terminate or suspend accounts of Users or third parties who submit false, fraudulent, or abusive DMCA notices or counter-notices.
+
+**6.2 Abuse Enforcement**
+
+Starisian Technologies may, at its discretion, implement additional safeguards against abuse of the DMCA process, including rate-limiting notice submissions, requiring verification of identity, and coordinating with law enforcement where appropriate.
+
+---
+
+### Section 7 — Cultural Content Review
+
+**7.1 Traditional Knowledge and Cultural Heritage**
+
+Before executing a DMCA takedown with respect to content that may be subject to Traditional Knowledge (TK) protections, indigenous cultural heritage designations, or cultural preservation considerations, Starisian Technologies may, in its discretion, undertake a supplemental review of the content to assess whether:
+
+  (a) The content is subject to applicable TK Label Framework designations or similar cultural heritage protections;
+
+  (b) Removal of the content would conflict with Starisian Technologies' commitments to cultural preservation and respect for indigenous and traditional knowledge systems;
+
+  (c) The DMCA process is the appropriate mechanism for resolving the dispute, or whether alternative resolution mechanisms would better serve all parties.
+
+**7.2 Delay for Cultural Review**
+
+Starisian Technologies reserves the right to delay execution of a DMCA takedown for a reasonable period, not to exceed thirty (30) days, to conduct a cultural content review pursuant to Section 7.1. Starisian Technologies will notify the complaining party of any such delay and the reason therefor.
+
+**7.3 Non-Waiver**
+
+The cultural content review process described in this Section 7 does not constitute a waiver of the complaining party's rights under the DMCA, nor does it create any additional rights for Users whose content is under review. Starisian Technologies retains full discretion to proceed with a DMCA takedown after completing the cultural content review.
+
+---
+
+### Section 8 — International Copyright
+
+**8.1 WIPO Compliance**
+
+Starisian Technologies respects its international copyright obligations and acknowledges the principles established by the World Intellectual Property Organization (WIPO), including the WIPO Copyright Treaty (WCT) and the WIPO Performances and Phonograms Treaty (WPPT). Cross-border copyright disputes involving Platform content will be guided by applicable international copyright principles, including those established under the Berne Convention for the Protection of Literary and Artistic Works.
+
+**8.2 Jurisdiction**
+
+This Copyright Policy is governed by the laws of the State of California and the federal laws of the United States of America, including the DMCA. Nothing in this Section 8 limits the applicability of United States law to the Platform's operations or to disputes arising under this Copyright Policy.
+
+**8.3 Cross-Border Enforcement**
+
+Where a copyright dispute involves parties or content subject to the laws of a jurisdiction other than the United States, Starisian Technologies will endeavor to apply internationally recognized copyright principles and will cooperate with rights holders and enforcement authorities as required by applicable law.
+
+**8.4 Gambia and African Jurisdiction**
+
+In connection with AI West Africa (AIWA) operations and Platform activities conducted in or in relation to the Republic of The Gambia or other African jurisdictions, Starisian Technologies acknowledges that additional local copyright law obligations may apply. AIWA-specific content and operations are subject to applicable Gambian law and any applicable African regional intellectual property frameworks, in addition to the general provisions of this Copyright Policy.
+
+---
+
+### Section 9 — General Provisions
+
+**9.1 Relationship to Master Terms**
+
+This Copyright Policy is a module of and is incorporated into the Platform's Master Terms of Service. In the event of any conflict between this Copyright Policy and the Master Terms, the Master Terms shall control unless this Copyright Policy expressly provides otherwise with respect to a specific subject matter.
+
+**9.2 Modifications**
+
+Starisian Technologies reserves the right to modify this Copyright Policy at any time. Modifications will be effective upon posting of the revised policy to the Platform or upon notice to Users as required by applicable law or the Master Terms. Continued use of the Platform following notice of modifications constitutes acceptance of the revised policy.
+
+**9.3 Contact**
+
+Questions regarding this Copyright Policy may be directed to Starisian Technologies at the contact information provided on the Platform's legal page or to the Designated Agent at the address set forth in Section 5.1.
+
+**9.4 Severability**
+
+If any provision of this Copyright Policy is found to be unenforceable or invalid under applicable law, that provision shall be modified to the minimum extent necessary to make it enforceable, and the remaining provisions shall continue in full force and effect.
+
+**9.5 No Legal Advice**
+
+This Copyright Policy does not constitute legal advice. Users with questions about their specific copyright situation should consult qualified legal counsel.
+
+---
+
+## Attestation Record
+
+| Field | Value |
+|---|---|
+| Version | — |
+| SHA-256 Hash | — |
+| Attested Date | — |
+| Attestation Method | — |
+| Attested By | — |
+
+---
+
+*This document is a draft for lawyer review. It has not been reviewed by legal counsel and does not constitute legal advice. All policy documents must be reviewed and approved by qualified legal counsel before publication.*
