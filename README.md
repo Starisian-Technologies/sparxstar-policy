@@ -74,7 +74,7 @@ Policy clauses are modeled structurally from recognized industry-leading legal f
 
 ## Versioning Rules
 
-- Every policy file carries a metadata header: `version`, `date`, `status`, `jurisdiction`, `supersedes`.
+- Every policy file carries a metadata header: `version`, `date`, `status`, `jurisdiction`, `policyType`, `dependsOnMasterTerms`, `supersedes`.
 - All policies are independently versioned.
 - Version history is maintained in [`docs/version-history/`](docs/version-history/).
 - Status progression: `planned → drafting → review → approved → active → archived`.
