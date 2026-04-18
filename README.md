@@ -159,4 +159,4 @@ All policy changes require:
 
 ---
 
-*This repository is litigation-grade. All content is subject to attorney-client privilege during active drafting phases.*
+*This repository is maintained for internal legal-policy drafting and review. Draft materials may be confidential and may be reviewed by counsel as appropriate.*
