@@ -4,6 +4,8 @@ date: 2026-04-12
 status: planned
 jurisdiction: California
 supersedes: none
+policyType: module
+dependsOnMasterTerms: true
 ---
 
 # Terms of Sale
