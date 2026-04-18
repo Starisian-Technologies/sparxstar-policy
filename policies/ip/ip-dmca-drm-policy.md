@@ -4,8 +4,6 @@ date: 2026-04-12
 status: planned
 jurisdiction: California
 supersedes: none
-policyType: policy
-dependsOnMasterTerms: true
 policyType: module
 dependsOnMasterTerms: true
 ---
