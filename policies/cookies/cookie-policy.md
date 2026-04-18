@@ -290,7 +290,7 @@ Capitalized terms used but not defined in this Cookie Policy have the meanings g
 
 ### 14. Cookie Reference — Common Types by Function
 
-*The following table describes common categories of Cookies and Similar Technologies the Company may use. Specific cookie names and expiration dates are subject to change as the Platform evolves. The current cookie inventory is available through the Platform's cookie preference center.*
+**14.1 Purpose of This Reference.** The following table describes common categories of Cookies and Similar Technologies the Company may use. Specific cookie names and expiration dates are subject to change as the Platform evolves. The current cookie inventory is available through the Platform's cookie preference center.
 
 | Category | Example Function | Typical Retention | First or Third Party |
 |---|---|---|---|
@@ -311,7 +311,7 @@ Capitalized terms used but not defined in this Cookie Policy have the meanings g
 
 *Note: This table is illustrative. The Platform's cookie preference center contains the authoritative and up-to-date cookie inventory.*
 
-**14.5 Interpretation.** Where a Cookie serves more than one purpose, it is categorized according to its primary purpose. A Cookie categorized as Strictly Necessary will not be reclassified as non-Strictly-Necessary based solely on incidental secondary functions. The Company reviews Cookie categorizations periodically to ensure accuracy.
+**14.2 Interpretation.** Where a Cookie serves more than one purpose, it is categorized according to its primary purpose. A Cookie categorized as Strictly Necessary will not be reclassified as non-Strictly-Necessary based solely on incidental secondary functions. The Company reviews Cookie categorizations periodically to ensure accuracy.
 
 ---
 

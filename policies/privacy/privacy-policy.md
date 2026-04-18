@@ -263,13 +263,13 @@ Capitalized terms used but not defined in this Privacy Policy have the meanings 
 
 ### 12. International Data Transfers
 
-**11.1 Cross-Border Transfers.** The Company operates in the United States and may store or process Personal Data in the United States or in other countries where the Company or its Service Providers maintain facilities. By using the Platform, You understand that Personal Data may be transferred to and processed in countries other than Your country of residence, including countries that may not provide the same level of data protection as Your home country.
+**12.1 Cross-Border Transfers.** The Company operates in the United States and may store or process Personal Data in the United States or in other countries where the Company or its Service Providers maintain facilities. By using the Platform, You understand that Personal Data may be transferred to and processed in countries other than Your country of residence, including countries that may not provide the same level of data protection as Your home country.
 
-**11.2 Transfer Safeguards.** Where Personal Data is transferred from the European Economic Area, the United Kingdom, or Switzerland to countries not recognized as providing an adequate level of data protection, the Company will implement appropriate safeguards as required by Applicable Law. Safeguards may include: standard contractual clauses approved by the European Commission or UK Information Commissioner's Office; binding corporate rules; adequacy decisions; or other mechanisms recognized under applicable data protection law.
+**12.2 Transfer Safeguards.** Where Personal Data is transferred from the European Economic Area, the United Kingdom, or Switzerland to countries not recognized as providing an adequate level of data protection, the Company will implement appropriate safeguards as required by Applicable Law. Safeguards may include: standard contractual clauses approved by the European Commission or UK Information Commissioner's Office; binding corporate rules; adequacy decisions; or other mechanisms recognized under applicable data protection law.
 
-**11.3 African Jurisdictions.** Personal Data processed in connection with AI West Africa (AIWA) and other African operational activities may be transferred to or from Gambian or other African jurisdictions. The Company will apply appropriate safeguards consistent with applicable data protection laws in those jurisdictions.
+**12.3 African Jurisdictions.** Personal Data processed in connection with AI West Africa (AIWA) and other African operational activities may be transferred to or from Gambian or other African jurisdictions. The Company will apply appropriate safeguards consistent with applicable data protection laws in those jurisdictions.
 
-**11.4 U.S. Data Practices.** Personal Data stored or processed in the United States is subject to United States law, including potential disclosure to law enforcement or government agencies under applicable U.S. legal frameworks.
+**12.4 U.S. Data Practices.** Personal Data stored or processed in the United States is subject to United States law, including potential disclosure to law enforcement or government agencies under applicable U.S. legal frameworks.
 
 ---
 
@@ -309,19 +309,19 @@ Capitalized terms used but not defined in this Privacy Policy have the meanings 
 
 ### 16. Automated Decision-Making and Profiling
 
-**14.1 Automated Processing.** The Company may use automated processing, including machine learning and rule-based systems, in connection with platform operations. Automated processing activities include but are not limited to: spam and abuse detection; fraud and unauthorized-access detection; content moderation pre-screening; personalization of Platform features; and AI-assisted quality review of User Content.
+**16.1 Automated Processing.** The Company may use automated processing, including machine learning and rule-based systems, in connection with platform operations. Automated processing activities include but are not limited to: spam and abuse detection; fraud and unauthorized-access detection; content moderation pre-screening; personalization of Platform features; and AI-assisted quality review of User Content.
 
-**14.2 No Solely Automated Legal Decisions.** The Company does not make decisions that produce legal effects on Users or that significantly affect Users based solely on automated processing, except where: (a) such processing is authorized by Applicable Law; (b) is necessary for entering into or performing a contract; or (c) is based on explicit consent. Where automated decisions are used for Account enforcement actions, the Company provides a human review pathway, described in Section 14.3 of the Master Terms of Service.
+**16.2 No Solely Automated Legal Decisions.** The Company does not make decisions that produce legal effects on Users or that significantly affect Users based solely on automated processing, except where: (a) such processing is authorized by Applicable Law; (b) is necessary for entering into or performing a contract; or (c) is based on explicit consent. Where automated decisions are used for Account enforcement actions, the Company provides a human review pathway, described in Section 14.3 of the Master Terms of Service.
 
-**14.3 GDPR Automated Decision Rights.** For Users in the EU/UK where the GDPR or UK GDPR applies, You have the right to: request human review of any automated decision that produces significant effects; express Your point of view regarding the automated decision; and contest the automated decision. These rights are subject to exceptions under applicable law. To exercise these rights, submit a request through the data rights channel described in Section 9.2.
+**16.3 GDPR Automated Decision Rights.** For Users in the EU/UK where the GDPR or UK GDPR applies, You have the right to: request human review of any automated decision that produces significant effects; express Your point of view regarding the automated decision; and contest the automated decision. These rights are subject to exceptions under applicable law. To exercise these rights, submit a request through the data rights channel described in Section 9.2.
 
-**14.4 AI Profiling.** The Company may build anonymized or pseudonymized behavioral profiles of Platform usage for the purposes of improving the Platform and personalizing User experience. Such profiles do not constitute decisions about individuals in a legal or regulatory sense but are used to optimize platform recommendations and features. Users may object to this type of profiling under rights described in Section 9.
+**16.4 AI Profiling.** The Company may build anonymized or pseudonymized behavioral profiles of Platform usage for the purposes of improving the Platform and personalizing User experience. Such profiles do not constitute decisions about individuals in a legal or regulatory sense but are used to optimize platform recommendations and features. Users may object to this type of profiling under rights described in Section 9.
 
 ---
 
 ### 17. Marketing and Communications
 
-**15.1 Types of Communications.** The Company may send the following categories of communications to Users:
+**17.1 Types of Communications.** The Company may send the following categories of communications to Users:
 
   (a) *Transactional communications:* Account confirmations, password reset messages, order confirmations, transaction receipts, support responses, and service notifications. These are sent as part of the provision of Services and do not require separate consent.
 
@@ -329,35 +329,35 @@ Capitalized terms used but not defined in this Privacy Policy have the meanings 
 
   (c) *Marketing communications:* Promotional messages, product announcements, feature highlights, event notices, and similar commercial communications. Marketing communications are sent on the basis of User consent or, where permitted by Applicable Law, on the basis of a soft opt-in from existing customers.
 
-**15.2 Opt-Out of Marketing.** You may opt out of marketing communications at any time by: (a) clicking the unsubscribe link included in any marketing email; (b) updating Your communication preferences in Your Account settings; or (c) submitting an opt-out request through the Company's designated contact channel. The Company will process opt-out requests within the timeframe required by Applicable Law. Opting out of marketing does not affect transactional or service-update communications.
+**17.2 Opt-Out of Marketing.** You may opt out of marketing communications at any time by: (a) clicking the unsubscribe link included in any marketing email; (b) updating Your communication preferences in Your Account settings; or (c) submitting an opt-out request through the Company's designated contact channel. The Company will process opt-out requests within the timeframe required by Applicable Law. Opting out of marketing does not affect transactional or service-update communications.
 
-**15.3 Third-Party Marketing.** The Company does not sell Your Personal Data to third parties for their independent marketing use. The Company may use third-party email delivery services and marketing tools as Service Providers to send Company marketing communications on the Company's behalf.
+**17.3 Third-Party Marketing.** The Company does not sell Your Personal Data to third parties for their independent marketing use. The Company may use third-party email delivery services and marketing tools as Service Providers to send Company marketing communications on the Company's behalf.
 
-**15.4 SMS and Push Notifications.** Where the Platform supports SMS or push notification communications, the Company will obtain Your explicit consent before sending marketing messages through those channels. You may withdraw consent at any time by unsubscribing from those channels through Your Account settings or by following the opt-out instructions provided in the relevant messages.
+**17.4 SMS and Push Notifications.** Where the Platform supports SMS or push notification communications, the Company will obtain Your explicit consent before sending marketing messages through those channels. You may withdraw consent at any time by unsubscribing from those channels through Your Account settings or by following the opt-out instructions provided in the relevant messages.
 
 ---
 
 ### 18. Third-Party Analytics and Advertising Partners
 
-**16.1 Analytics Partners.** The Company uses third-party analytics services to collect and analyze data about Platform usage. Analytics partners receive aggregated or pseudonymized data about User interactions with the Platform. The Company takes reasonable steps to ensure analytics partners do not use this data for their own independent purposes beyond providing analytics services to the Company.
+**18.1 Analytics Partners.** The Company uses third-party analytics services to collect and analyze data about Platform usage. Analytics partners receive aggregated or pseudonymized data about User interactions with the Platform. The Company takes reasonable steps to ensure analytics partners do not use this data for their own independent purposes beyond providing analytics services to the Company.
 
-**16.2 Advertising Technology.** Where the Platform integrates advertising technology, advertising partners may collect data through Cookies and Similar Technologies as described in the Cookie Policy. Advertising partners may use this data to display targeted advertisements on the Platform and on third-party sites.
+**18.2 Advertising Technology.** Where the Platform integrates advertising technology, advertising partners may collect data through Cookies and Similar Technologies as described in the Cookie Policy. Advertising partners may use this data to display targeted advertisements on the Platform and on third-party sites.
 
-**16.3 Social Media Integrations.** Where the Platform includes social media sharing buttons, embedded content, or social login features, the applicable social media platform may collect data about Your interaction with those features. The collection and use of data by social media platforms is governed by their own privacy policies, which the Company does not control.
+**18.3 Social Media Integrations.** Where the Platform includes social media sharing buttons, embedded content, or social login features, the applicable social media platform may collect data about Your interaction with those features. The collection and use of data by social media platforms is governed by their own privacy policies, which the Company does not control.
 
-**16.4 Payment Processors.** Payment transactions are processed by third-party payment processors. Payment processors receive transaction data necessary to complete and verify payments, manage fraud, and comply with financial regulations. Payment processor data use is governed by their own privacy policies. The Company does not store full payment card numbers.
+**18.4 Payment Processors.** Payment transactions are processed by third-party payment processors. Payment processors receive transaction data necessary to complete and verify payments, manage fraud, and comply with financial regulations. Payment processor data use is governed by their own privacy policies. The Company does not store full payment card numbers.
 
-**16.5 AI and Cloud Providers.** The Company uses cloud infrastructure providers and AI service providers to host the Platform and to provide AI processing capabilities. These providers may process Personal Data in the course of providing infrastructure and AI services to the Company. They are engaged as Service Providers under data processing agreements that restrict their use of Personal Data to providing services to the Company.
+**18.5 AI and Cloud Providers.** The Company uses cloud infrastructure providers and AI service providers to host the Platform and to provide AI processing capabilities. These providers may process Personal Data in the course of providing infrastructure and AI services to the Company. They are engaged as Service Providers under data processing agreements that restrict their use of Personal Data to providing services to the Company.
 
 ---
 
 ### 19. Support and Contact — Forms-First Posture
 
-**14.1 Support Channels.** The Company provides support and handles inquiries primarily through structured forms, ticketing systems, and designated online channels. Direct personal contact information for Company staff is not broadly published in order to maintain security and manage volume effectively.
+**19.1 Support Channels.** The Company provides support and handles inquiries primarily through structured forms, ticketing systems, and designated online channels. Direct personal contact information for Company staff is not broadly published in order to maintain security and manage volume effectively.
 
-**14.2 Data Rights Requests.** Requests to exercise data rights described in Sections 9 through 12 should be submitted through the Company's designated data rights request channel, identified on the Company's website.
+**19.2 Data Rights Requests.** Requests to exercise data rights described in Sections 9 through 12 should be submitted through the Company's designated data rights request channel, identified on the Company's website.
 
-**14.3 Privacy Inquiries.** General privacy inquiries, questions about this Privacy Policy, or concerns about Company data practices should be submitted through the privacy inquiry channel identified on the Company's website.
+**19.3 Privacy Inquiries.** General privacy inquiries, questions about this Privacy Policy, or concerns about Company data practices should be submitted through the privacy inquiry channel identified on the Company's website.
 
 ---
 
