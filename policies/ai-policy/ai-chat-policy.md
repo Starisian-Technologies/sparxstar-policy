@@ -2,6 +2,9 @@
 version: 0.1.0
 date: 2026-04-12
 status: planned
+policyType: module
+dependsOnMasterTerms: true
+sourceModels: []
 jurisdiction: California
 supersedes: none
 ---
