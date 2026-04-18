@@ -6,6 +6,8 @@ jurisdiction: California
 supersedes: none
 policyType: module
 dependsOnMasterTerms: true
+policyType: module
+dependsOnMasterTerms: true
 ---
 
 # Content Policy
