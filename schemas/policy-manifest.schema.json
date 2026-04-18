@@ -1,0 +1,121 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "$id": "https://sparxstar.com/schemas/policy-manifest.schema.json",
+  "title": "Policy Manifest Schema",
+  "description": "Schema for validating SPARXSTAR policy manifest entries.",
+  "type": "object",
+  "required": [
+    "policyName",
+    "policyType",
+    "purpose",
+    "status",
+    "jurisdictionScope",
+    "draftingPriority",
+    "filePath"
+  ],
+  "properties": {
+    "policyName": {
+      "type": "string",
+      "description": "Full name of the policy document.",
+      "minLength": 1
+    },
+    "policyType": {
+      "type": "string",
+      "description": "Classifies the document as the umbrella master terms or a subsidiary module.",
+      "enum": [
+        "master",
+        "module"
+      ]
+    },
+    "purpose": {
+      "type": "string",
+      "description": "Brief description of what this policy governs.",
+      "minLength": 1
+    },
+    "status": {
+      "type": "string",
+      "description": "Current lifecycle status of the policy.",
+      "enum": [
+        "planned",
+        "drafting",
+        "review",
+        "approved",
+        "active",
+        "archived"
+      ]
+    },
+    "jurisdictionScope": {
+      "type": "string",
+      "description": "Named jurisdictions this policy applies to.",
+      "minLength": 1
+    },
+    "dependsOnMasterTerms": {
+      "type": "boolean",
+      "description": "Whether this policy is incorporated by reference into the Master Terms of Service. Must be false for policyType 'master'."
+    },
+    "draftingPriority": {
+      "type": "integer",
+      "description": "Relative drafting priority. Lower numbers drafted first.",
+      "minimum": 1
+    },
+    "filePath": {
+      "type": "string",
+      "description": "Relative path to the policy document file.",
+      "pattern": "^policies/.*\\.md$"
+    },
+    "version": {
+      "type": "string",
+      "description": "Current version of the policy document (semver).",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "date": {
+      "type": "string",
+      "description": "Date this manifest entry was last updated (ISO 8601).",
+      "format": "date"
+    },
+    "supersedes": {
+      "description": "Version this entry supersedes, or 'none'.",
+      "anyOf": [
+        { "const": "none" },
+        {
+          "type": "string",
+          "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+        }
+      ]
+    },
+    "sourceModels": {
+      "type": "array",
+      "description": "List of structural source models referenced during drafting.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "culturalOverlay": {
+      "type": "boolean",
+      "description": "Whether this policy has a cultural protocol overlay."
+    },
+    "jurisdictionOverlays": {
+      "type": "array",
+      "description": "Named jurisdiction overlays that modify this policy.",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "if": {
+    "properties": {
+      "policyType": { "const": "master" }
+    },
+    "required": ["policyType"]
+  },
+  "then": {
+    "required": ["dependsOnMasterTerms"],
+    "properties": {
+      "dependsOnMasterTerms": { "const": false }
+    }
+  },
+  "else": {
+    "required": ["dependsOnMasterTerms"]
+  },
+  "additionalProperties": false
+}
