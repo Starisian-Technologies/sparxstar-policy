@@ -129,7 +129,7 @@ Capitalized terms used but not defined in this Cookie Policy have the meanings g
 
 ---
 
-### 3. Categories of Cookies We Use
+### 3. Categories of Cookies the Platform Uses
 
 **3.1 Strictly Necessary Cookies.**
 

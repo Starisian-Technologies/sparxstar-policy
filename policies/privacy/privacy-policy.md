@@ -137,27 +137,27 @@ Capitalized terms used but not defined in this Privacy Policy have the meanings 
 
 ---
 
-### 3. Data We Collect
+### 3. Data the Company Collects
 
-**3.1 Account and Registration Data.** When You create an Account, we collect information such as: name; email address; username; password (stored in hashed form); profile information You choose to provide; and the date and time of account creation. Client Operators may require additional registration fields for their sites.
+**3.1 Account and Registration Data.** When You create an Account, the Company collects information such as: name; email address; username; password (stored in hashed form); profile information You choose to provide; and the date and time of account creation. Client Operators may require additional registration fields for their sites.
 
-**3.2 Transaction and Commerce Data.** When You make a purchase or conduct a financial transaction through the Platform or a Client Operator site, we collect: order details; product or service descriptions; pricing; billing address; shipping address; transaction identifiers; and payment method type (e.g., card type, last four digits). Full payment card numbers and full financial account credentials are processed by third-party payment processors and are not stored by the Company on its servers.
+**3.2 Transaction and Commerce Data.** When You make a purchase or conduct a financial transaction through the Platform or a Client Operator site, the Company collects: order details; product or service descriptions; pricing; billing address; shipping address; transaction identifiers; and payment method type (e.g., card type, last four digits). Full payment card numbers and full financial account credentials are processed by third-party payment processors and are not stored by the Company on its servers.
 
-**3.3 Content Data.** We collect User Content You submit, upload, publish, or otherwise provide to or through the Platform, including text, images, audio, video, documents, and associated metadata such as creation date, file type, and tagging information.
+**3.3 Content Data.** The Company collects User Content You submit, upload, publish, or otherwise provide to or through the Platform, including text, images, audio, video, documents, and associated metadata such as creation date, file type, and tagging information.
 
-**3.4 Communications Data.** We collect the content of messages, inquiries, support tickets, form submissions, and other communications You send to the Company or to other Users through Platform communications features.
+**3.4 Communications Data.** The Company collects the content of messages, inquiries, support tickets, form submissions, and other communications You send to the Company or to other Users through Platform communications features.
 
-**3.5 Usage and Activity Data.** We automatically collect data about Your interactions with the Platform, including: pages viewed; features accessed; search queries; clicks; scrolls; navigation paths; time spent; content interactions; and feature usage patterns.
+**3.5 Usage and Activity Data.** The Company automatically collects data about Your interactions with the Platform, including: pages viewed; features accessed; search queries; clicks; scrolls; navigation paths; time spent; content interactions; and feature usage patterns.
 
-**3.6 Device and Technical Data.** We automatically collect technical information about the device and software You use to access the Platform, including: IP address; device type and identifiers; operating system and version; browser type and version; screen resolution; language preferences; referring URLs; and network information.
+**3.6 Device and Technical Data.** The Company automatically collects technical information about the device and software You use to access the Platform, including: IP address; device type and identifiers; operating system and version; browser type and version; screen resolution; language preferences; referring URLs; and network information.
 
-**3.7 Location Data.** We collect coarse location information derived from IP address. We do not collect precise GPS or device-level geolocation without Your express consent.
+**3.7 Location Data.** The Company collects coarse location information derived from IP address. The Company does not collect precise GPS or device-level geolocation without Your express consent.
 
-**3.8 Cookies and Tracking Data.** We use cookies, pixel tags, web beacons, local storage, and similar technologies to collect data about Your interactions with the Platform. See the Cookie Policy for detailed disclosures.
+**3.8 Cookies and Tracking Data.** The Company uses cookies, pixel tags, web beacons, local storage, and similar technologies to collect data about Your interactions with the Platform. See the Cookie Policy for detailed disclosures.
 
-**3.9 AI Interaction Data.** Where You interact with AI-assisted features on the Platform, we collect the inputs You provide and the outputs generated, together with interaction metadata. This data may be used for AI system operation, quality assurance, safety monitoring, and AI model improvement as described in Section 5.7.
+**3.9 AI Interaction Data.** Where You interact with AI-assisted features on the Platform, the Company collects the inputs You provide and the outputs generated, together with interaction metadata. This data may be used for AI system operation, quality assurance, safety monitoring, and AI model improvement as described in Section 5.7.
 
-**3.10 Third-Party Source Data.** We may receive Personal Data about You from third parties, including: social login providers (if You choose to log in via a third-party account); payment processors; fraud detection providers; analytics partners; and Client Operators (with respect to Account data provided on their behalf).
+**3.10 Third-Party Source Data.** The Company may receive Personal Data about You from third parties, including: social login providers (if You choose to log in via a third-party account); payment processors; fraud detection providers; analytics partners; and Client Operators (with respect to Account data provided on their behalf).
 
 ---
 
@@ -175,37 +175,37 @@ Capitalized terms used but not defined in this Privacy Policy have the meanings 
 
 ---
 
-### 5. How We Use Personal Data
+### 5. How the Company Uses Personal Data
 
-**5.1 Platform Operations.** We use Personal Data to operate, maintain, and provide the Platform and Services, including to: authenticate Users; process transactions; deliver content and features; manage Accounts; provide customer support; and fulfill orders and service requests.
+**5.1 Platform Operations.** The Company uses Personal Data to operate, maintain, and provide the Platform and Services, including to: authenticate Users; process transactions; deliver content and features; manage Accounts; provide customer support; and fulfill orders and service requests.
 
-**5.2 Security and Fraud Prevention.** We use Personal Data to: detect and prevent unauthorized access, fraud, abuse, and security threats; monitor for violations of these Terms; investigate suspected misconduct; and protect the security and integrity of the Platform.
+**5.2 Security and Fraud Prevention.** The Company uses Personal Data to: detect and prevent unauthorized access, fraud, abuse, and security threats; monitor for violations of these Terms; investigate suspected misconduct; and protect the security and integrity of the Platform.
 
-**5.3 Analytics and Improvement.** We use Personal Data to: analyze usage patterns and Platform performance; identify and fix bugs; develop new features; improve existing features; conduct research; and measure the effectiveness of Platform operations.
+**5.3 Analytics and Improvement.** The Company uses Personal Data to: analyze usage patterns and Platform performance; identify and fix bugs; develop new features; improve existing features; conduct research; and measure the effectiveness of Platform operations.
 
-**5.4 Personalization.** We use Personal Data to: personalize Your experience on the Platform; recommend relevant content, products, or features; and tailor platform interfaces to Your preferences.
+**5.4 Personalization.** The Company uses Personal Data to: personalize Your experience on the Platform; recommend relevant content, products, or features; and tailor platform interfaces to Your preferences.
 
-**5.5 Communications.** We use Personal Data to: send transactional communications (such as account confirmations, order confirmations, and support responses); send service notifications and policy updates; and send marketing communications where You have not opted out. You may opt out of marketing communications at any time by following the unsubscribe instructions in any marketing message or by updating Your Account preferences.
+**5.5 Communications.** The Company uses Personal Data to: send transactional communications (such as account confirmations, order confirmations, and support responses); send service notifications and policy updates; and send marketing communications where You have not opted out. You may opt out of marketing communications at any time by following the unsubscribe instructions in any marketing message or by updating Your Account preferences.
 
-**5.6 Legal Compliance.** We use Personal Data as required to: comply with Applicable Law; respond to legal process; enforce these Terms and other agreements; and protect the rights, property, and safety of the Company, its Users, and the public.
+**5.6 Legal Compliance.** The Company uses Personal Data as required to: comply with Applicable Law; respond to legal process; enforce these Terms and other agreements; and protect the rights, property, and safety of the Company, its Users, and the public.
 
-**5.7 AI Processing.** We may use Personal Data, including User Content, to: operate AI-assisted platform features; conduct automated moderation and safety review; train, fine-tune, and improve AI and machine learning models operated by or on behalf of the Company; generate structured datasets, semantic mappings, and AI outputs; and conduct quality assurance for AI systems. Where required by Applicable Law, the Company will provide notice of and, where applicable, obtain consent for specific AI processing activities. Users may have rights to opt out of certain AI processing activities; see Section 9 (User Rights) for details.
+**5.7 AI Processing.** The Company may use Personal Data, including User Content, to: operate AI-assisted platform features; conduct automated moderation and safety review; train, fine-tune, and improve AI and machine learning models operated by or on behalf of the Company; generate structured datasets, semantic mappings, and AI outputs; and conduct quality assurance for AI systems. Where required by Applicable Law, the Company will provide notice of and, where applicable, obtain consent for specific AI processing activities. Users may have rights to opt out of certain AI processing activities; see Section 9 (User Rights) for details.
 
 **5.8 Platform-Level Analytics Across Domains.** The Company conducts platform-level analytics across all domains using Platform infrastructure, including Mapped Custom Domains, for the purpose of monitoring platform health, security, and performance. This analytics activity is conducted in the Company's capacity as platform operator and Data Controller for Platform Data.
 
 ---
 
-### 6. How We Share Personal Data
+### 6. How the Company Shares Personal Data
 
-**6.1 Service Providers.** We share Personal Data with Service Providers who perform functions on our behalf, including but not limited to: cloud hosting and infrastructure providers; payment processors; email and communications service providers; fraud detection and security vendors; analytics providers; AI and machine learning service providers; customer support platforms; logistics, shipping, and fulfillment providers; printing and production vendors; and content delivery networks. Service Providers are contractually required to use Personal Data only for the purpose of providing services to the Company and to maintain appropriate data security.
+**6.1 Service Providers.** The Company shares Personal Data with Service Providers who perform functions on the Company's behalf, including but not limited to: cloud hosting and infrastructure providers; payment processors; email and communications service providers; fraud detection and security vendors; analytics providers; AI and machine learning service providers; customer support platforms; logistics, shipping, and fulfillment providers; printing and production vendors; and content delivery networks. Service Providers are contractually required to use Personal Data only for the purpose of providing services to the Company and to maintain appropriate data security.
 
-**6.2 Client Operators.** We may share Account and Content data with the applicable Client Operator where a User has registered or submitted content through that Client Operator's site. Client Operators are bound by data protection obligations in their agreements with the Company.
+**6.2 Client Operators.** The Company may share Account and Content data with the applicable Client Operator where a User has registered or submitted content through that Client Operator's site. Client Operators are bound by data protection obligations in their agreements with the Company.
 
 **6.3 Business Transfers.** If the Company is involved in a merger, acquisition, reorganization, sale of assets, financing, or similar transaction, Personal Data may be transferred as part of that transaction, subject to the acquirer agreeing to privacy commitments consistent with this Privacy Policy.
 
-**6.4 Legal Disclosures.** We may disclose Personal Data when: (a) required to do so by Applicable Law or legal process; (b) requested by law enforcement or government authorities; (c) necessary to protect the rights, property, or safety of the Company, its Users, or the public; or (d) necessary to enforce these Terms or other agreements.
+**6.4 Legal Disclosures.** The Company may disclose Personal Data when: (a) required to do so by Applicable Law or legal process; (b) requested by law enforcement or government authorities; (c) necessary to protect the rights, property, or safety of the Company, its Users, or the public; or (d) necessary to enforce these Terms or other agreements.
 
-**6.5 Aggregated and De-Identified Data.** We may share aggregated, anonymized, or de-identified data that does not reasonably identify any individual with partners, researchers, and the public for research, business, and analytics purposes.
+**6.5 Aggregated and De-Identified Data.** The Company may share aggregated, anonymized, or de-identified data that does not reasonably identify any individual with partners, researchers, and the public for research, business, and analytics purposes.
 
 **6.6 No Sale for Third-Party Marketing.** The Company does not sell Personal Data to third parties for their own independent marketing or advertising purposes. To the extent any data sharing activity constitutes a "sale" or "sharing" of Personal Data under the CCPA or similar law, the Company provides the opt-out rights described in Section 9.
 
