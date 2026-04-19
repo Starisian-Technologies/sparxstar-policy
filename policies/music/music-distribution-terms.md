@@ -22,29 +22,74 @@ sourceModels:
 
 ---
 
+
+## Role Labels
+
+The following role labels define the legal actors in this document. Where domain-based rendering applies, **SITE OWNER** resolves to the public-facing entity for the active domain. All other labels are fixed.
+
+| Label | Legal Definition | Resolved Identity |
+|---|---|---|
+| **PLATFORM** | The SPARXSTAR technical platform, infrastructure, APIs, processing systems, AI systems, databases, and hosting environment. | SPARXSTAR (always) |
+| **PLATFORM OPERATOR** | The legal entity that owns, operates, and is legally responsible for the PLATFORM. | Starisian Technologies, LLC (always) |
+| **SITE OWNER** | The public-facing website owner or site operator responsible for the site on the active domain. | SPARXSTAR on Platform Domains (*.sparxstar.com); the applicable Client Operator on Mapped Custom Domains |
+| **END USER** | The visitor, user, customer, attendee, buyer, or other natural person accessing and using the site or service. | Varies by domain and context |
+| **SERVICE PROVIDER** | Any third-party contractor, subcontractor, vendor, processor, cloud host, AI provider, payment processor, logistics provider, shipper, printer, moderation service, or support provider engaged by PLATFORM OPERATOR or SITE OWNER to perform backend functions. | Varies |
+
+> **Rendering note:** On Platform Domains (`*.sparxstar.com` and other Company-operated domains), SITE OWNER and PLATFORM OPERATOR are both Starisian Technologies, LLC, and PLATFORM is SPARXSTAR. On Mapped Custom Domains, SITE OWNER resolves to the Client Operator for the end-user-facing layer; PLATFORM and PLATFORM OPERATOR remain unchanged.
+>
+> In clauses that assign legal responsibility to a specific named entity, the full legal name (Starisian Technologies, LLC) is used in lieu of the PLATFORM OPERATOR label.
+
+### Defined Term Cross-Reference
+
+The following cross-reference maps terms used in the Full Legal Text to their Role Label equivalents:
+
+| Term in Full Legal Text | Role Label Equivalent |
+|---|---|
+| "the Company" / "Company" | PLATFORM OPERATOR (Starisian Technologies, LLC) |
+| "the Platform" / "Platform" | PLATFORM (SPARXSTAR infrastructure) |
+| "Client Operator" / "Operator" | SITE OWNER (on Mapped Custom Domains) |
+| "User" / "End User" | END USER |
+| "Subcontractor" | SERVICE PROVIDER |
+
+---
+> **Distribution note:** In this document, SITE OWNER refers to the distribution-facing entity (either SPARXSTAR Music Distribution on SPARXSTAR domains, or the applicable Client Operator label on their domain). The distributing artist is treated as END USER for purposes of these terms. SELLER in this context refers to the distribution-service provider, which is SITE OWNER.
+
+Additional role label for this document:
+
+| Label | Legal Definition |
+|---|---|
+| **ARTIST / RIGHTS HOLDER** | The artist, label, or rights holder submitting content for distribution. Treated as END USER in platform terms. |
+
+---
+
 ## Plain Language Summary
 
 *Layer 1 — Human Readable. Written at Grade 8 reading level.*
 
 > What these terms mean for artists and rights holders distributing music through the platform.
 
-**What we do:** We distribute your music to digital streaming platforms and stores worldwide on a non-exclusive basis, and we pass your royalties through to you minus our distribution fee.
+> **Who is "we" in this document?**
+> **"We"** and **"us"** in this document refer to **PLATFORM OPERATOR** (Starisian Technologies, LLC) acting as SITE OWNER for music distribution services on Platform Domains.
+> On Mapped Custom Domains where a Client Operator runs a distribution service, **"we"** refers to SITE OWNER (the Client Operator), and PLATFORM OPERATOR remains the underlying PLATFORM provider.
+> The distributing artist or rights holder is treated as **ARTIST / RIGHTS HOLDER** (END USER) for purposes of these terms.
 
-**What you can do:** Upload your music, set your release information, choose your distribution territory, and earn royalties from streams and downloads.
+**What PLATFORM OPERATOR / SITE OWNER does:** SITE OWNER distributes music to digital streaming platforms and stores worldwide on a non-exclusive basis and passes royalties through to ARTIST / RIGHTS HOLDERS minus the applicable distribution fee.
+
+**What you can do:** ARTIST / RIGHTS HOLDERS may upload music, set release information, choose distribution territories, and earn royalties from streams and downloads.
 
 **What is not allowed:** Uploading music you don't own the rights to, submitting fake streams or fraudulent engagement, or providing false metadata about your releases.
 
 ---
 
-When you distribute music through SPARXSTAR, you keep full ownership of your music. We are not buying your recordings or your songs. You are giving us a license — a permission — to distribute your music on your behalf to streaming services and digital stores around the world.
+When ARTIST / RIGHTS HOLDERS distribute music through SPARXSTAR, they keep full ownership of their music. PLATFORM OPERATOR is not buying recordings or songs. ARTIST / RIGHTS HOLDERS are giving PLATFORM OPERATOR (or SITE OWNER, as applicable) a license — a permission — to distribute music on their behalf to streaming services and digital stores around the world.
 
-You must own or control all the rights to everything you upload. That means the sound recording (the actual recorded track) AND the underlying musical composition (the melody and lyrics). If you used samples, you must have cleared them. If you recorded a cover song, you must have the mechanical license.
+ARTIST / RIGHTS HOLDERS must own or control all the rights to everything they upload. That means the sound recording (the actual recorded track) AND the underlying musical composition (the melody and lyrics). If samples were used, they must have been cleared. If a cover song was recorded, a mechanical license is required.
 
-We earn money by keeping a percentage of revenue your music generates on streaming platforms. The rest goes to you. Specific percentages are set in your account agreement or service tier. We aim to be transparent about how royalties are calculated.
+PLATFORM OPERATOR / SITE OWNER earns a distribution fee by retaining a percentage of revenue the music generates on streaming platforms. The rest goes to the ARTIST / RIGHTS HOLDER. Specific percentages are set in the account agreement or service tier. PLATFORM OPERATOR aims to be transparent about how royalties are calculated.
 
-Fraud is taken seriously. If you artificially inflate your stream counts, use bots, or submit content you don't own, we will remove your music, close your account, and forfeit any accrued royalties.
+Fraud is taken seriously. If an ARTIST / RIGHTS HOLDER artificially inflates stream counts, uses bots, or submits content they do not own, PLATFORM OPERATOR will remove the music, close the account, and forfeit any accrued royalties.
 
-Your lyrics are literary works with their own copyright. When you distribute through SPARXSTAR or AI West Africa services, we may analyze your lyrics for search, indexing, and classification purposes. We do not own your lyrics or the individual words in them. However, structured databases we build from analyzing content across the platform — things like semantic maps and indexed meaning systems — are platform property.
+Lyrics are literary works with their own copyright. When distributing through SPARXSTAR or AI West Africa services, PLATFORM OPERATOR may analyze lyrics for search, indexing, and classification purposes. PLATFORM OPERATOR does not own the lyrics or the individual words in them. However, structured databases PLATFORM OPERATOR builds from analyzing content across the PLATFORM — such as semantic maps and indexed meaning systems — are PLATFORM OPERATOR's proprietary assets.
 
 ---
 

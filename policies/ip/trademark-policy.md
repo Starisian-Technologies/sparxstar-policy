@@ -22,54 +22,93 @@ sourceModels:
 
 ---
 
+
+## Role Labels
+
+The following role labels define the legal actors in this document. Where domain-based rendering applies, **SITE OWNER** resolves to the public-facing entity for the active domain. All other labels are fixed.
+
+| Label | Legal Definition | Resolved Identity |
+|---|---|---|
+| **PLATFORM** | The SPARXSTAR technical platform, infrastructure, APIs, processing systems, AI systems, databases, and hosting environment. | SPARXSTAR (always) |
+| **PLATFORM OPERATOR** | The legal entity that owns, operates, and is legally responsible for the PLATFORM. | Starisian Technologies, LLC (always) |
+| **SITE OWNER** | The public-facing website owner or site operator responsible for the site on the active domain. | SPARXSTAR on Platform Domains (*.sparxstar.com); the applicable Client Operator on Mapped Custom Domains |
+| **END USER** | The visitor, user, customer, attendee, buyer, or other natural person accessing and using the site or service. | Varies by domain and context |
+| **SERVICE PROVIDER** | Any third-party contractor, subcontractor, vendor, processor, cloud host, AI provider, payment processor, logistics provider, shipper, printer, moderation service, or support provider engaged by PLATFORM OPERATOR or SITE OWNER to perform backend functions. | Varies |
+
+> **Rendering note:** On Platform Domains (`*.sparxstar.com` and other Company-operated domains), SITE OWNER and PLATFORM OPERATOR are both Starisian Technologies, LLC, and PLATFORM is SPARXSTAR. On Mapped Custom Domains, SITE OWNER resolves to the Client Operator for the end-user-facing layer; PLATFORM and PLATFORM OPERATOR remain unchanged.
+>
+> In clauses that assign legal responsibility to a specific named entity, the full legal name (Starisian Technologies, LLC) is used in lieu of the PLATFORM OPERATOR label.
+
+### Defined Term Cross-Reference
+
+The following cross-reference maps terms used in the Full Legal Text to their Role Label equivalents:
+
+| Term in Full Legal Text | Role Label Equivalent |
+|---|---|
+| "the Company" / "Company" | PLATFORM OPERATOR (Starisian Technologies, LLC) |
+| "the Platform" / "Platform" | PLATFORM (SPARXSTAR infrastructure) |
+| "Client Operator" / "Operator" | SITE OWNER (on Mapped Custom Domains) |
+| "User" / "End User" | END USER |
+| "Subcontractor" | SERVICE PROVIDER |
+
+---
+> **Trademark note:** The SPARXSTAR, AIWA, and Starisian Technologies marks belong to PLATFORM OPERATOR. SITE OWNER marks belong to the applicable Client Operator. Neither party may use the other's marks without authorization.
+
+---
+
 ## Plain Language Summary
+
+> **Who is "we" in this document?**
+> **"We"** and **"us"** in this Trademark Policy refer to **PLATFORM OPERATOR** (Starisian Technologies, LLC) asserting and protecting its own trademarks (SPARXSTAR, AIWA, Starisian Technologies).
+> SITE OWNER marks on Mapped Custom Domains belong to the applicable Client Operator.
+> Neither PLATFORM OPERATOR nor END USERS may use SITE OWNER marks, and neither SITE OWNER nor END USERS may use PLATFORM OPERATOR marks, without proper authorization.
 
 **What this policy is about**
 
-This policy explains the brand names and logos we own, what you can and cannot do with them, and how to report someone misusing our brand or yours.
+This policy explains the brand names and logos PLATFORM OPERATOR owns, what you can and cannot do with them, and how to report someone misusing PLATFORM OPERATOR's brand or your own.
 
 **Our trademarks**
 
-We own the following brand names and logos:
+PLATFORM OPERATOR owns the following brand names and logos:
 
-- **SPARXSTAR** — the name and logo of our main platform
-- **AI West Africa** and **AIWA** — the name and logo of our West African publishing and aggregation initiative
-- **Starisian Technologies** — the name of our company
+- **SPARXSTAR** — the name and logo of the PLATFORM
+- **AI West Africa** and **AIWA** — the name and logo of PLATFORM OPERATOR's West African publishing and aggregation initiative
+- **Starisian Technologies** — the legal name of PLATFORM OPERATOR
 
-These names and logos are protected by trademark law. That means you need our permission to use them in most situations.
+These names and logos are protected by trademark law. That means you need PLATFORM OPERATOR's permission to use them in most situations.
 
-**What you CAN do with our brand names**
+**What you CAN do with PLATFORM OPERATOR's brand names**
 
-You may use our brand names without asking us when you are:
+You may use PLATFORM OPERATOR's brand names without asking when you are:
 
-- Writing a news article, review, or commentary about the SPARXSTAR platform
-- Referring to us in an academic or educational paper
-- Clearly identifying us as the platform you are using in a factual way
+- Writing a news article, review, or commentary about the SPARXSTAR PLATFORM
+- Referring to PLATFORM OPERATOR in an academic or educational paper
+- Clearly identifying PLATFORM OPERATOR as the platform you are using in a factual way
 
-This is called "nominative fair use." You are simply identifying us, not claiming affiliation.
+This is called "nominative fair use." You are simply identifying PLATFORM OPERATOR, not claiming affiliation.
 
-**What you CANNOT do with our brand names**
+**What you CANNOT do with PLATFORM OPERATOR's brand names**
 
 You may NOT:
 
-- Use our names or logos to suggest we sponsor, endorse, or are affiliated with you or your business, unless we have given you written permission
-- Use our names or logos as part of your business name, product name, website name, or domain name
-- Use our names or logos in hidden code, website metadata, or tags to direct people to your site
-- Create logos or names that look confusingly similar to ours
-- Mix our logos or brand elements with other brands without our written permission
-- Pretend to be SPARXSTAR, AIWA, or anyone else affiliated with us
+- Use PLATFORM OPERATOR's names or logos to suggest PLATFORM OPERATOR sponsors, endorses, or is affiliated with you or your business, unless PLATFORM OPERATOR has given written permission
+- Use PLATFORM OPERATOR's names or logos as part of your business name, product name, website name, or domain name
+- Use PLATFORM OPERATOR's names or logos in hidden code, website metadata, or tags to direct people to your site
+- Create logos or names that look confusingly similar to PLATFORM OPERATOR's marks
+- Mix PLATFORM OPERATOR's logos or brand elements with other brands without written permission
+- Pretend to be SPARXSTAR, AIWA, or anyone affiliated with PLATFORM OPERATOR
 
 **You cannot upload content that infringes other people's trademarks either**
 
-Just as we protect our own trademarks, you must respect other brands' trademarks when using the platform.
+Just as PLATFORM OPERATOR protects its own trademarks, END USERS must respect other brands' trademarks when using the PLATFORM.
 
-**How to request permission to use our brand**
+**How to request permission to use PLATFORM OPERATOR's brand**
 
-If you are an authorized partner or have a legitimate reason to use our brand elements, contact us to request brand usage guidelines and permission.
+If you are an authorized partner or have a legitimate reason to use PLATFORM OPERATOR's brand elements, contact PLATFORM OPERATOR to request brand usage guidelines and permission.
 
 **How to report trademark misuse**
 
-If you see someone misusing our trademarks or if someone is using your trademark on our platform without permission, you can submit a trademark infringement complaint to us. We will review it and take appropriate action.
+If you see someone misusing PLATFORM OPERATOR's trademarks, or if someone is using your trademark on the PLATFORM without permission, you can submit a trademark infringement complaint to PLATFORM OPERATOR. PLATFORM OPERATOR will review it and take appropriate action.
 
 ---
 

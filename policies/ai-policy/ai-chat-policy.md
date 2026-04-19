@@ -21,17 +21,55 @@ sourceModels:
 
 ---
 
+
+## Role Labels
+
+The following role labels define the legal actors in this document. Where domain-based rendering applies, **SITE OWNER** resolves to the public-facing entity for the active domain. All other labels are fixed.
+
+| Label | Legal Definition | Resolved Identity |
+|---|---|---|
+| **PLATFORM** | The SPARXSTAR technical platform, infrastructure, APIs, processing systems, AI systems, databases, and hosting environment. | SPARXSTAR (always) |
+| **PLATFORM OPERATOR** | The legal entity that owns, operates, and is legally responsible for the PLATFORM. | Starisian Technologies, LLC (always) |
+| **SITE OWNER** | The public-facing website owner or site operator responsible for the site on the active domain. | SPARXSTAR on Platform Domains (*.sparxstar.com); the applicable Client Operator on Mapped Custom Domains |
+| **END USER** | The visitor, user, customer, attendee, buyer, or other natural person accessing and using the site or service. | Varies by domain and context |
+| **SERVICE PROVIDER** | Any third-party contractor, subcontractor, vendor, processor, cloud host, AI provider, payment processor, logistics provider, shipper, printer, moderation service, or support provider engaged by PLATFORM OPERATOR or SITE OWNER to perform backend functions. | Varies |
+
+> **Rendering note:** On Platform Domains (`*.sparxstar.com` and other Company-operated domains), SITE OWNER and PLATFORM OPERATOR are both Starisian Technologies, LLC, and PLATFORM is SPARXSTAR. On Mapped Custom Domains, SITE OWNER resolves to the Client Operator for the end-user-facing layer; PLATFORM and PLATFORM OPERATOR remain unchanged.
+>
+> In clauses that assign legal responsibility to a specific named entity, the full legal name (Starisian Technologies, LLC) is used in lieu of the PLATFORM OPERATOR label.
+
+### Defined Term Cross-Reference
+
+The following cross-reference maps terms used in the Full Legal Text to their Role Label equivalents:
+
+| Term in Full Legal Text | Role Label Equivalent |
+|---|---|
+| "the Company" / "Company" | PLATFORM OPERATOR (Starisian Technologies, LLC) |
+| "the Platform" / "Platform" | PLATFORM (SPARXSTAR infrastructure) |
+| "Client Operator" / "Operator" | SITE OWNER (on Mapped Custom Domains) |
+| "User" / "End User" | END USER |
+| "Subcontractor" | SERVICE PROVIDER |
+
+---
+> **AI note:** PLATFORM OPERATOR operates AI systems at the PLATFORM layer. AI processing occurs on all domains using PLATFORM infrastructure regardless of SITE OWNER branding.
+
+---
+
 ## Plain Language Summary
 
 *Layer 1 — Human Readable. Written at Grade 8 reading level. Uses "you" and "we". Short sentences. No passive voice where avoidable.*
 
 > What this policy means for you.
 
-**What we do:** We use AI tools to help you create, analyze, translate, and process content — and we explain clearly what we can and cannot do with your content.
+> **Who is "we" in this document?**
+> **"We"** and **"us"** in this AI Chat and AI Use Policy refer to **PLATFORM OPERATOR** (Starisian Technologies, LLC) operating AI systems at the PLATFORM layer.
+> AI processing occurs through PLATFORM infrastructure on all domains, including Mapped Custom Domains, regardless of SITE OWNER branding.
 
-**What you can do:** You can use AI features to create, translate, search, and understand content, as long as you follow the rules below.
+**What PLATFORM OPERATOR does:** PLATFORM OPERATOR provides AI-assisted features including chat, generation, translation, and language processing, and may use submitted content to improve AI systems.
 
-**What is not allowed:** You cannot use AI tools to deceive people, generate illegal content, impersonate others, or work around platform safety systems.
+**What you can do:** END USERS may use AI features for lawful personal and business purposes as permitted by this policy and applicable SITE OWNER terms.
+
+**What is not allowed:** Using AI features to deceive, impersonate, generate illegal content, bypass platform systems, or violate any END USER's rights.
 
 ---
 

@@ -22,23 +22,62 @@ sourceModels:
 
 ---
 
+
+## Role Labels
+
+The following role labels define the legal actors in this document. Where domain-based rendering applies, **SITE OWNER** resolves to the public-facing entity for the active domain. All other labels are fixed.
+
+| Label | Legal Definition | Resolved Identity |
+|---|---|---|
+| **PLATFORM** | The SPARXSTAR technical platform, infrastructure, APIs, processing systems, AI systems, databases, and hosting environment. | SPARXSTAR (always) |
+| **PLATFORM OPERATOR** | The legal entity that owns, operates, and is legally responsible for the PLATFORM. | Starisian Technologies, LLC (always) |
+| **SITE OWNER** | The public-facing website owner or site operator responsible for the site on the active domain. | SPARXSTAR on Platform Domains (*.sparxstar.com); the applicable Client Operator on Mapped Custom Domains |
+| **END USER** | The visitor, user, customer, attendee, buyer, or other natural person accessing and using the site or service. | Varies by domain and context |
+| **SERVICE PROVIDER** | Any third-party contractor, subcontractor, vendor, processor, cloud host, AI provider, payment processor, logistics provider, shipper, printer, moderation service, or support provider engaged by PLATFORM OPERATOR or SITE OWNER to perform backend functions. | Varies |
+
+> **Rendering note:** On Platform Domains (`*.sparxstar.com` and other Company-operated domains), SITE OWNER and PLATFORM OPERATOR are both Starisian Technologies, LLC, and PLATFORM is SPARXSTAR. On Mapped Custom Domains, SITE OWNER resolves to the Client Operator for the end-user-facing layer; PLATFORM and PLATFORM OPERATOR remain unchanged.
+>
+> In clauses that assign legal responsibility to a specific named entity, the full legal name (Starisian Technologies, LLC) is used in lieu of the PLATFORM OPERATOR label.
+
+### Defined Term Cross-Reference
+
+The following cross-reference maps terms used in the Full Legal Text to their Role Label equivalents:
+
+| Term in Full Legal Text | Role Label Equivalent |
+|---|---|
+| "the Company" / "Company" | PLATFORM OPERATOR (Starisian Technologies, LLC) |
+| "the Platform" / "Platform" | PLATFORM (SPARXSTAR infrastructure) |
+| "Client Operator" / "Operator" | SITE OWNER (on Mapped Custom Domains) |
+| "User" / "End User" | END USER |
+| "Subcontractor" | SERVICE PROVIDER |
+
+---
+> **Copyright note:** PLATFORM OPERATOR administers DMCA compliance at the PLATFORM layer. SITE OWNER is responsible for ensuring their content and their END USERS' content complies with copyright law on their domain.
+
+---
+
 ## Plain Language Summary
+
+> **Who is "we" in this document?**
+> **"We"** and **"us"** in this Copyright Policy refer to **PLATFORM OPERATOR** (Starisian Technologies, LLC) administering DMCA compliance and copyright enforcement at the PLATFORM layer.
+> SITE OWNER is responsible for ensuring their own content and their END USERS' content complies with copyright law on their domain.
+> On Platform Domains, PLATFORM OPERATOR and SITE OWNER are the same entity (Starisian Technologies, LLC / SPARXSTAR).
 
 **What this policy is about**
 
-This policy explains who owns the creative work you upload to SPARXSTAR, how we can use it, and what happens if someone copies your work without permission.
+This policy explains who owns the creative work you upload to SPARXSTAR, how PLATFORM OPERATOR can use it, and what happens if someone copies your work without permission.
 
 **You keep your copyright**
 
 When you upload a photo, song, video, written piece, or any other original work to SPARXSTAR, you still own it. We do not take ownership of your work. Your copyright stays with you.
 
-**You give us a license to run the platform**
+**You give PLATFORM OPERATOR a license to run the PLATFORM**
 
-To host your content and make the platform work, you give us permission — called a license — to store, display, process, and share your content as part of running SPARXSTAR. This does not mean we own your work. It just means we can use it to power the service.
+To host your content and make the PLATFORM work, you give PLATFORM OPERATOR permission — called a license — to store, display, process, and share your content as part of running SPARXSTAR. This does not mean PLATFORM OPERATOR owns your work. It just means PLATFORM OPERATOR can use it to power the service.
 
-**We own our own stuff**
+**PLATFORM OPERATOR owns its own systems**
 
-We own the SPARXSTAR software, the design of the platform, and the systems we built. We also own structured data systems we create — like organized databases, curated word lists, and AI-generated outputs our platform produces. We do **not** own individual words or publicly known language facts.
+PLATFORM OPERATOR owns the SPARXSTAR software, the design of the PLATFORM, and the systems it built. PLATFORM OPERATOR also owns structured data systems it creates — like organized databases, curated word lists, and AI-generated outputs the PLATFORM produces. PLATFORM OPERATOR does **not** own individual words or publicly known language facts.
 
 **You cannot upload things you do not own**
 
@@ -46,10 +85,10 @@ Only upload content you created yourself or have permission to share. Do not upl
 
 **How to report copyright infringement**
 
-If someone posted your work on SPARXSTAR without your permission, you can send us a formal copyright takedown notice. Your notice needs to:
+If someone posted your work on SPARXSTAR without your permission, you can send PLATFORM OPERATOR a formal copyright takedown notice. Your notice needs to:
 
 - Describe the work that was copied
-- Tell us where the copy is located on our platform
+- Tell PLATFORM OPERATOR where the copy is located on the PLATFORM (provide the URL)
 - Confirm you own the work or represent the owner
 - State that you believe in good faith that the use is not authorized
 - Sign the notice
@@ -58,15 +97,15 @@ We will review it and remove the content if the notice is valid.
 
 **The takedown process**
 
-Once we receive a valid notice, we will remove the content quickly and notify the person who uploaded it. That person may send us a counter-notice if they believe they have the right to use the work. If they do, we may restore the content after a waiting period, unless you take legal action.
+Once PLATFORM OPERATOR receives a valid notice, it will remove the content quickly and notify the person who uploaded it. That person may send PLATFORM OPERATOR a counter-notice if they believe they have the right to use the work. If they do, PLATFORM OPERATOR may restore the content after a waiting period, unless you take legal action.
 
 **Repeat infringers**
 
-If someone keeps violating copyright on our platform, we will suspend or terminate their account.
+If someone keeps violating copyright on the PLATFORM, PLATFORM OPERATOR will suspend or terminate their account.
 
 **Cultural content**
 
-Before removing content that may be part of a cultural or traditional knowledge tradition, we may take extra time to review it carefully.
+Before removing content that may be part of a cultural or traditional knowledge tradition, PLATFORM OPERATOR may take extra time to review it carefully.
 
 ---
 

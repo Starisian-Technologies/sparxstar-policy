@@ -22,17 +22,55 @@ sourceModels:
 
 ---
 
+
+## Role Labels
+
+The following role labels define the legal actors in this document. Where domain-based rendering applies, **SITE OWNER** resolves to the public-facing entity for the active domain. All other labels are fixed.
+
+| Label | Legal Definition | Resolved Identity |
+|---|---|---|
+| **PLATFORM** | The SPARXSTAR technical platform, infrastructure, APIs, processing systems, AI systems, databases, and hosting environment. | SPARXSTAR (always) |
+| **PLATFORM OPERATOR** | The legal entity that owns, operates, and is legally responsible for the PLATFORM. | Starisian Technologies, LLC (always) |
+| **SITE OWNER** | The public-facing website owner or site operator responsible for the site on the active domain. | SPARXSTAR on Platform Domains (*.sparxstar.com); the applicable Client Operator on Mapped Custom Domains |
+| **END USER** | The visitor, user, customer, attendee, buyer, or other natural person accessing and using the site or service. | Varies by domain and context |
+| **SERVICE PROVIDER** | Any third-party contractor, subcontractor, vendor, processor, cloud host, AI provider, payment processor, logistics provider, shipper, printer, moderation service, or support provider engaged by PLATFORM OPERATOR or SITE OWNER to perform backend functions. | Varies |
+
+> **Rendering note:** On Platform Domains (`*.sparxstar.com` and other Company-operated domains), SITE OWNER and PLATFORM OPERATOR are both Starisian Technologies, LLC, and PLATFORM is SPARXSTAR. On Mapped Custom Domains, SITE OWNER resolves to the Client Operator for the end-user-facing layer; PLATFORM and PLATFORM OPERATOR remain unchanged.
+>
+> In clauses that assign legal responsibility to a specific named entity, the full legal name (Starisian Technologies, LLC) is used in lieu of the PLATFORM OPERATOR label.
+
+### Defined Term Cross-Reference
+
+The following cross-reference maps terms used in the Full Legal Text to their Role Label equivalents:
+
+| Term in Full Legal Text | Role Label Equivalent |
+|---|---|
+| "the Company" / "Company" | PLATFORM OPERATOR (Starisian Technologies, LLC) |
+| "the Platform" / "Platform" | PLATFORM (SPARXSTAR infrastructure) |
+| "Client Operator" / "Operator" | SITE OWNER (on Mapped Custom Domains) |
+| "User" / "End User" | END USER |
+| "Subcontractor" | SERVICE PROVIDER |
+
+---
+> **Privacy note:** PLATFORM OPERATOR collects platform-level data on all domains (including Mapped Custom Domains) for security, fraud prevention, and platform operations. SITE OWNER is a separate data controller for the end-user relationship on their domain.
+
+---
+
 ## Plain Language Summary
 
 *Layer 1 — Human Readable. Written at Grade 8 reading level. Uses "you" and "we". Short sentences. No passive voice where avoidable.*
 
 > What this policy means for you.
 
-**What we do:** We collect information about how you use the SPARXSTAR platform so we can operate our services, keep them secure, and improve them.
+> **Who is "we" in this document?**
+> **"We"** and **"us"** in this Privacy Policy refer to **PLATFORM OPERATOR** (Starisian Technologies, LLC) collecting and processing data at the PLATFORM layer.
+> On Mapped Custom Domains, SITE OWNER (the Client Operator) is a separate data controller for the end-user relationship on their domain. This policy covers what PLATFORM OPERATOR collects as the PLATFORM provider.
 
-**What you can do:** You can access, correct, delete, or download your personal data, and you can opt out of marketing communications at any time.
+**What PLATFORM OPERATOR does:** PLATFORM OPERATOR collects information about how END USERS use the SPARXSTAR PLATFORM so it can operate the PLATFORM, keep it secure, and improve it.
 
-**What is not allowed:** We do not sell your personal data to third parties for their own marketing purposes.
+**What you can do:** END USERS can access, correct, delete, or download personal data, and can opt out of marketing communications at any time.
+
+**What is not allowed:** PLATFORM OPERATOR does not sell END USER personal data to third parties for their own marketing purposes.
 
 ---
 

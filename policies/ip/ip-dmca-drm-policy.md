@@ -23,55 +23,93 @@ sourceModels:
 
 ---
 
+
+## Role Labels
+
+The following role labels define the legal actors in this document. Where domain-based rendering applies, **SITE OWNER** resolves to the public-facing entity for the active domain. All other labels are fixed.
+
+| Label | Legal Definition | Resolved Identity |
+|---|---|---|
+| **PLATFORM** | The SPARXSTAR technical platform, infrastructure, APIs, processing systems, AI systems, databases, and hosting environment. | SPARXSTAR (always) |
+| **PLATFORM OPERATOR** | The legal entity that owns, operates, and is legally responsible for the PLATFORM. | Starisian Technologies, LLC (always) |
+| **SITE OWNER** | The public-facing website owner or site operator responsible for the site on the active domain. | SPARXSTAR on Platform Domains (*.sparxstar.com); the applicable Client Operator on Mapped Custom Domains |
+| **END USER** | The visitor, user, customer, attendee, buyer, or other natural person accessing and using the site or service. | Varies by domain and context |
+| **SERVICE PROVIDER** | Any third-party contractor, subcontractor, vendor, processor, cloud host, AI provider, payment processor, logistics provider, shipper, printer, moderation service, or support provider engaged by PLATFORM OPERATOR or SITE OWNER to perform backend functions. | Varies |
+
+> **Rendering note:** On Platform Domains (`*.sparxstar.com` and other Company-operated domains), SITE OWNER and PLATFORM OPERATOR are both Starisian Technologies, LLC, and PLATFORM is SPARXSTAR. On Mapped Custom Domains, SITE OWNER resolves to the Client Operator for the end-user-facing layer; PLATFORM and PLATFORM OPERATOR remain unchanged.
+>
+> In clauses that assign legal responsibility to a specific named entity, the full legal name (Starisian Technologies, LLC) is used in lieu of the PLATFORM OPERATOR label.
+
+### Defined Term Cross-Reference
+
+The following cross-reference maps terms used in the Full Legal Text to their Role Label equivalents:
+
+| Term in Full Legal Text | Role Label Equivalent |
+|---|---|
+| "the Company" / "Company" | PLATFORM OPERATOR (Starisian Technologies, LLC) |
+| "the Platform" / "Platform" | PLATFORM (SPARXSTAR infrastructure) |
+| "Client Operator" / "Operator" | SITE OWNER (on Mapped Custom Domains) |
+| "User" / "End User" | END USER |
+| "Subcontractor" | SERVICE PROVIDER |
+
+---
+> **IP/DMCA note:** PLATFORM OPERATOR is the designated DMCA agent for the PLATFORM. SITE OWNER is responsible for their own content compliance. PLATFORM OPERATOR may take down content on any domain where a valid DMCA notice is received.
+
+---
+
 ## Plain Language Summary
+
+> **Who is "we" in this document?**
+> **"We"** and **"us"** in this IP, DMCA, and DRM Compliance Policy refer to **PLATFORM OPERATOR** (Starisian Technologies, LLC) administering IP enforcement and DMCA compliance at the PLATFORM layer.
+> SITE OWNER is responsible for their domain's content compliance. PLATFORM OPERATOR may take down content on any domain using PLATFORM infrastructure upon receipt of a valid DMCA notice, regardless of which SITE OWNER operates that domain.
 
 **What this policy is about**
 
-This policy explains how we protect intellectual property (IP) on the SPARXSTAR platform, how we handle copyright takedown requests under the Digital Millennium Copyright Act (DMCA), and why you cannot bypass digital rights management (DRM) technology on our platform.
+This policy explains how PLATFORM OPERATOR protects intellectual property (IP) on the SPARXSTAR PLATFORM, how PLATFORM OPERATOR handles copyright takedown requests under the Digital Millennium Copyright Act (DMCA), and why END USERS may not bypass digital rights management (DRM) technology on the PLATFORM.
 
 **What is intellectual property?**
 
-Intellectual property (IP) refers to creations of the mind — such as songs, books, videos, artwork, software, inventions, and brand names — that the law protects as belonging to their creators. The main types of IP protection relevant to our platform are copyright (protecting creative works) and related rights (protecting performances, recordings, and broadcasts).
+Intellectual property (IP) refers to creations of the mind — such as songs, books, videos, artwork, software, inventions, and brand names — that the law protects as belonging to their creators. The main types of IP protection relevant to the PLATFORM are copyright (protecting creative works) and related rights (protecting performances, recordings, and broadcasts).
 
 **What is DRM?**
 
-Digital Rights Management, or DRM, refers to technologies that control how digital content can be accessed, copied, or shared. When content on our platform is protected by DRM, that protection exists to respect the rights of the content creator. You are not allowed to bypass or disable DRM protection — doing so is illegal under the DMCA and violates this policy.
+Digital Rights Management, or DRM, refers to technologies that control how digital content can be accessed, copied, or shared. When content on the PLATFORM is protected by DRM, that protection exists to respect the rights of the content creator. END USERS are not allowed to bypass or disable DRM protection — doing so is illegal under the DMCA and violates this policy.
 
 **What is a DMCA takedown notice?**
 
-The DMCA is a US law that protects platforms like ours from being liable for content users upload, as long as we respond properly when we receive a report of copyright infringement. If someone reports that your content infringes their copyright, we will remove the content and let you know.
+The DMCA is a US law that protects platforms like the PLATFORM from being liable for content users upload, as long as PLATFORM OPERATOR responds properly when it receives a report of copyright infringement. If someone reports that your content infringes their copyright, PLATFORM OPERATOR will remove the content and notify you.
 
 **How to report copyright infringement**
 
-If someone has uploaded your work without permission, you can send us a formal DMCA takedown notice. Your notice must include:
+If someone has uploaded your work without permission, you can send PLATFORM OPERATOR a formal DMCA takedown notice. Your notice must include:
 
 1. A description of the copyrighted work
-2. The location of the infringing copy on our platform (URL)
+2. The location of the infringing copy on the PLATFORM (URL)
 3. Your contact information
 4. A statement that you believe the use is not authorized
 5. A statement confirming the information is accurate, under penalty of perjury
 6. Your signature
 
-We will remove the content quickly and notify the person who uploaded it.
+PLATFORM OPERATOR will remove the content quickly and notify the person who uploaded it.
 
 **How to dispute a takedown (counter-notice)**
 
-If your content was removed by mistake — because the complaining person was wrong — you can send us a counter-notice. Your counter-notice must include:
+If your content was removed by mistake — because the complaining person was wrong — you can send PLATFORM OPERATOR a counter-notice. Your counter-notice must include:
 
 1. A description of the content that was removed
 2. A statement under penalty of perjury that the removal was a mistake
 3. Your consent to be sued in federal court in California if the complainant disagrees
 4. Your contact information and signature
 
-After we receive your counter-notice, we will tell the original complainant. If they do not take court action within 10 to 14 business days, we will restore your content.
+After PLATFORM OPERATOR receives your counter-notice, it will notify the original complainant. If they do not take court action within 10 to 14 business days, PLATFORM OPERATOR will restore your content.
 
 **Cultural content exception**
 
-If content may be part of a traditional cultural or indigenous heritage tradition, we will take extra care before removing it. We may delay a takedown to consult relevant cultural frameworks and ensure we are not removing something that deserves special protection.
+If content may be part of a traditional cultural or indigenous heritage tradition, PLATFORM OPERATOR will take extra care before removing it. PLATFORM OPERATOR may delay a takedown to consult relevant cultural frameworks and ensure it is not removing something that deserves special protection.
 
 **What happens to repeat infringers?**
 
-If you repeatedly infringe copyright on our platform, we will suspend or permanently terminate your account.
+If an END USER repeatedly infringes copyright on the PLATFORM, PLATFORM OPERATOR will suspend or permanently terminate the account.
 
 **Words are not owned — but organized systems are**
 

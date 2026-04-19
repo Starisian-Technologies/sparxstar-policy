@@ -23,17 +23,56 @@ sourceModels:
 
 ---
 
+
+## Role Labels
+
+The following role labels define the legal actors in this document. Where domain-based rendering applies, **SITE OWNER** resolves to the public-facing entity for the active domain. All other labels are fixed.
+
+| Label | Legal Definition | Resolved Identity |
+|---|---|---|
+| **PLATFORM** | The SPARXSTAR technical platform, infrastructure, APIs, processing systems, AI systems, databases, and hosting environment. | SPARXSTAR (always) |
+| **PLATFORM OPERATOR** | The legal entity that owns, operates, and is legally responsible for the PLATFORM. | Starisian Technologies, LLC (always) |
+| **SITE OWNER** | The public-facing website owner or site operator responsible for the site on the active domain. | SPARXSTAR on Platform Domains (*.sparxstar.com); the applicable Client Operator on Mapped Custom Domains |
+| **END USER** | The visitor, user, customer, attendee, buyer, or other natural person accessing and using the site or service. | Varies by domain and context |
+| **SERVICE PROVIDER** | Any third-party contractor, subcontractor, vendor, processor, cloud host, AI provider, payment processor, logistics provider, shipper, printer, moderation service, or support provider engaged by PLATFORM OPERATOR or SITE OWNER to perform backend functions. | Varies |
+
+> **Rendering note:** On Platform Domains (`*.sparxstar.com` and other Company-operated domains), SITE OWNER and PLATFORM OPERATOR are both Starisian Technologies, LLC, and PLATFORM is SPARXSTAR. On Mapped Custom Domains, SITE OWNER resolves to the Client Operator for the end-user-facing layer; PLATFORM and PLATFORM OPERATOR remain unchanged.
+>
+> In clauses that assign legal responsibility to a specific named entity, the full legal name (Starisian Technologies, LLC) is used in lieu of the PLATFORM OPERATOR label.
+
+### Defined Term Cross-Reference
+
+The following cross-reference maps terms used in the Full Legal Text to their Role Label equivalents:
+
+| Term in Full Legal Text | Role Label Equivalent |
+|---|---|
+| "the Company" / "Company" | PLATFORM OPERATOR (Starisian Technologies, LLC) |
+| "the Platform" / "Platform" | PLATFORM (SPARXSTAR infrastructure) |
+| "Client Operator" / "Operator" | SITE OWNER (on Mapped Custom Domains) |
+| "User" / "End User" | END USER |
+| "Subcontractor" | SERVICE PROVIDER |
+
+---
+> **Master Terms note:** This document governs all PLATFORM activity. SITE OWNER-level policies may supplement but may not override PLATFORM OPERATOR-level rules on infrastructure, security, enforcement, AI processing, or data handling.
+
+---
+
 ## Plain Language Summary
 
 *Layer 1 — Human Readable. Written at Grade 8 reading level. Uses "you" and "we". Short sentences. No passive voice where avoidable.*
 
 > What this policy means for you.
 
-**What we do:** We run the SPARXSTAR platform and provide technology, hosting, and services to websites and apps that are built on top of it.
+> **Who is "we" in this document?**
+> On Platform Domains (*.sparxstar.com), **"we"** and **"us"** refer to **PLATFORM OPERATOR** (Starisian Technologies, LLC), which is also the SITE OWNER.
+> On Mapped Custom Domains, the baseline PLATFORM rules are from PLATFORM OPERATOR; end-user-facing obligations belong to SITE OWNER (the Client Operator for that domain).
+> References to "the seller," "the operator," or "the site owner" in this summary refer to SITE OWNER unless otherwise stated.
 
-**What you can do:** You can use the SPARXSTAR platform and any site built on it to create accounts, post content, buy products, and use features offered by that site.
+**What we do:** PLATFORM OPERATOR (Starisian Technologies, LLC) runs the SPARXSTAR PLATFORM and provides technology, hosting, and services to websites and apps built on top of it.
 
-**What is not allowed:** You cannot use the platform for illegal activity, abuse, spam, harassment, or to violate anyone's rights.
+**What you can do:** END USERS may use the PLATFORM and any site built on it to create accounts, post content, buy products, and use features offered by that site.
+
+**What is not allowed:** END USERS may not use the PLATFORM for illegal activity, abuse, spam, harassment, or to violate anyone's rights.
 
 ---
 

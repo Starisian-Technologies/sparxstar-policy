@@ -22,17 +22,55 @@ sourceModels:
 
 ---
 
+
+## Role Labels
+
+The following role labels define the legal actors in this document. Where domain-based rendering applies, **SITE OWNER** resolves to the public-facing entity for the active domain. All other labels are fixed.
+
+| Label | Legal Definition | Resolved Identity |
+|---|---|---|
+| **PLATFORM** | The SPARXSTAR technical platform, infrastructure, APIs, processing systems, AI systems, databases, and hosting environment. | SPARXSTAR (always) |
+| **PLATFORM OPERATOR** | The legal entity that owns, operates, and is legally responsible for the PLATFORM. | Starisian Technologies, LLC (always) |
+| **SITE OWNER** | The public-facing website owner or site operator responsible for the site on the active domain. | SPARXSTAR on Platform Domains (*.sparxstar.com); the applicable Client Operator on Mapped Custom Domains |
+| **END USER** | The visitor, user, customer, attendee, buyer, or other natural person accessing and using the site or service. | Varies by domain and context |
+| **SERVICE PROVIDER** | Any third-party contractor, subcontractor, vendor, processor, cloud host, AI provider, payment processor, logistics provider, shipper, printer, moderation service, or support provider engaged by PLATFORM OPERATOR or SITE OWNER to perform backend functions. | Varies |
+
+> **Rendering note:** On Platform Domains (`*.sparxstar.com` and other Company-operated domains), SITE OWNER and PLATFORM OPERATOR are both Starisian Technologies, LLC, and PLATFORM is SPARXSTAR. On Mapped Custom Domains, SITE OWNER resolves to the Client Operator for the end-user-facing layer; PLATFORM and PLATFORM OPERATOR remain unchanged.
+>
+> In clauses that assign legal responsibility to a specific named entity, the full legal name (Starisian Technologies, LLC) is used in lieu of the PLATFORM OPERATOR label.
+
+### Defined Term Cross-Reference
+
+The following cross-reference maps terms used in the Full Legal Text to their Role Label equivalents:
+
+| Term in Full Legal Text | Role Label Equivalent |
+|---|---|
+| "the Company" / "Company" | PLATFORM OPERATOR (Starisian Technologies, LLC) |
+| "the Platform" / "Platform" | PLATFORM (SPARXSTAR infrastructure) |
+| "Client Operator" / "Operator" | SITE OWNER (on Mapped Custom Domains) |
+| "User" / "End User" | END USER |
+| "Subcontractor" | SERVICE PROVIDER |
+
+---
+> **Content note:** PLATFORM OPERATOR enforces content standards at the PLATFORM layer on all domains. SITE OWNER may impose supplemental content rules on their site but may not override PLATFORM-level prohibitions.
+
+---
+
 ## Plain Language Summary
 
 *Layer 1 — Human Readable. Written at Grade 8 reading level. Uses "you" and "we". Short sentences. No passive voice where avoidable.*
 
 > What this policy means for you.
 
-**What we do:** We define what content you can submit, how we may process it, and what we will never allow on the platform.
+> **Who is "we" in this document?**
+> **"We"** and **"us"** in this Content Policy refer to **PLATFORM OPERATOR** (Starisian Technologies, LLC) enforcing content standards at the PLATFORM layer.
+> On Mapped Custom Domains, SITE OWNER may impose supplemental content rules, but may not override PLATFORM-level prohibitions.
 
-**What you can do:** You can submit original works or works you have rights to, and you can set certain limits on how we use them.
+**What PLATFORM OPERATOR does:** PLATFORM OPERATOR establishes and enforces the rules about what content may exist on the PLATFORM and how it may be used.
 
-**What is not allowed:** You cannot submit illegal content, content belonging to others without rights, or sacred cultural content without the required community or elder authorization.
+**What you can do:** END USERS and SITE OWNERS may submit, publish, and distribute content that they have the rights to and that complies with this policy.
+
+**What is not allowed:** Content that is illegal, abusive, rights-infringing, mislabeled, or classified as restricted without proper authorization.
 
 ---
 

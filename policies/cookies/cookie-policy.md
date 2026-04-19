@@ -21,17 +21,55 @@ sourceModels:
 
 ---
 
+
+## Role Labels
+
+The following role labels define the legal actors in this document. Where domain-based rendering applies, **SITE OWNER** resolves to the public-facing entity for the active domain. All other labels are fixed.
+
+| Label | Legal Definition | Resolved Identity |
+|---|---|---|
+| **PLATFORM** | The SPARXSTAR technical platform, infrastructure, APIs, processing systems, AI systems, databases, and hosting environment. | SPARXSTAR (always) |
+| **PLATFORM OPERATOR** | The legal entity that owns, operates, and is legally responsible for the PLATFORM. | Starisian Technologies, LLC (always) |
+| **SITE OWNER** | The public-facing website owner or site operator responsible for the site on the active domain. | SPARXSTAR on Platform Domains (*.sparxstar.com); the applicable Client Operator on Mapped Custom Domains |
+| **END USER** | The visitor, user, customer, attendee, buyer, or other natural person accessing and using the site or service. | Varies by domain and context |
+| **SERVICE PROVIDER** | Any third-party contractor, subcontractor, vendor, processor, cloud host, AI provider, payment processor, logistics provider, shipper, printer, moderation service, or support provider engaged by PLATFORM OPERATOR or SITE OWNER to perform backend functions. | Varies |
+
+> **Rendering note:** On Platform Domains (`*.sparxstar.com` and other Company-operated domains), SITE OWNER and PLATFORM OPERATOR are both Starisian Technologies, LLC, and PLATFORM is SPARXSTAR. On Mapped Custom Domains, SITE OWNER resolves to the Client Operator for the end-user-facing layer; PLATFORM and PLATFORM OPERATOR remain unchanged.
+>
+> In clauses that assign legal responsibility to a specific named entity, the full legal name (Starisian Technologies, LLC) is used in lieu of the PLATFORM OPERATOR label.
+
+### Defined Term Cross-Reference
+
+The following cross-reference maps terms used in the Full Legal Text to their Role Label equivalents:
+
+| Term in Full Legal Text | Role Label Equivalent |
+|---|---|
+| "the Company" / "Company" | PLATFORM OPERATOR (Starisian Technologies, LLC) |
+| "the Platform" / "Platform" | PLATFORM (SPARXSTAR infrastructure) |
+| "Client Operator" / "Operator" | SITE OWNER (on Mapped Custom Domains) |
+| "User" / "End User" | END USER |
+| "Subcontractor" | SERVICE PROVIDER |
+
+---
+> **Cookie note:** PLATFORM OPERATOR sets strictly necessary and platform-level cookies on all domains. SITE OWNER may set additional cookies on their domain subject to their own consent obligations.
+
+---
+
 ## Plain Language Summary
 
 *Layer 1 — Human Readable. Written at Grade 8 reading level. Uses "you" and "we". Short sentences. No passive voice where avoidable.*
 
 > What this policy means for you.
 
-**What we do:** We use cookies and similar technologies to make the SPARXSTAR platform work, keep it secure, understand how people use it, and show relevant content.
+> **Who is "we" in this document?**
+> **"We"** and **"us"** in this Cookie Policy refer to **PLATFORM OPERATOR** (Starisian Technologies, LLC) for PLATFORM-level cookies on all domains.
+> On Mapped Custom Domains, SITE OWNER (the Client Operator) may set additional cookies on their domain. Those cookies are governed by SITE OWNER's own cookie disclosure.
 
-**What you can do:** You can control most cookies through your browser settings or the cookie preference tools we provide. Some cookies are required for the platform to work at all.
+**What PLATFORM OPERATOR does:** PLATFORM OPERATOR and its SERVICE PROVIDERS use cookies and similar technologies to make the SPARXSTAR PLATFORM work, keep it secure, and understand how it is used.
 
-**What is not allowed:** You cannot disable strictly necessary security cookies and still expect the platform to work correctly or securely.
+**What you can do:** END USERS can control or disable non-essential cookies through browser settings and the consent manager on supported surfaces.
+
+**What is not allowed:** END USERS may not disable strictly necessary cookies required for PLATFORM security and authentication.
 
 ---
 
