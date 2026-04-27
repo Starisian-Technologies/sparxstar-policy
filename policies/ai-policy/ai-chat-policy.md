@@ -395,7 +395,9 @@ Legal Department
 
 ### 19. Indemnification
 
-Users agree to indemnify, defend, and hold harmless the Company, its officers, directors, employees, agents, licensors, Client Operators, and successors from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising from or relating to: (a) User's use of AI Features in violation of this Policy; (b) AI-Assisted Outputs generated in response to User prompts that violate applicable law or third-party rights; (c) User's misrepresentation of AI-Assisted Outputs as human-created works; or (d) any claim by a third party that User's AI Feature use caused harm to that third party.
+Users agree to indemnify, defend, and hold harmless the Company, its officers, directors, employees, agents, licensors, Client Operators, and successors from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising from or relating to the User's knowing or intentional: (a) use of AI Features in violation of this Policy; (b) generation of AI-Assisted Outputs in response to User prompts that violate applicable law or third-party rights; (c) misrepresentation of AI-Assisted Outputs as human-created works; or (d) conduct that causes demonstrable harm to a third party through the use of AI Features.
+
+> *Note to legal counsel: The qualifier "knowing or intentional" has been added to limit indemnification exposure to bad-faith conduct. Review whether this is consistent with the indemnification scope in the Master Terms of Service and whether a negligence standard is more appropriate for sub-item (b).*
 
 ---
 
