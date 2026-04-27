@@ -393,3 +393,15 @@ Legal Department
 
 Users agree to indemnify, defend, and hold harmless the Company, its officers, directors, employees, agents, licensors, Client Operators, and successors from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising from or relating to: (a) User's use of AI Features in violation of this Policy; (b) AI-Assisted Outputs generated in response to User prompts that violate applicable law or third-party rights; (c) User's misrepresentation of AI-Assisted Outputs as human-created works; or (d) any claim by a third party that User's AI Feature use caused harm to that third party.
 
+---
+
+### 20. Limitation of Liability
+
+**20.1 Mutual Cap on Damages.** To the maximum extent permitted by applicable law, the total aggregate liability of either party to the other arising out of or related to this Policy or the use of AI Features — whether based on contract, tort, statute, or any other legal theory — shall not exceed the greater of: (a) the total fees paid by the User to the Company in the twelve (12) months immediately preceding the event giving rise to the claim; or (b) one hundred United States dollars (USD $100).
+
+**20.2 Exclusion of Consequential Damages.** To the maximum extent permitted by applicable law, neither party shall be liable to the other for any indirect, incidental, special, consequential, exemplary, or punitive damages, including but not limited to: loss of profits, loss of revenue, loss of data, loss of goodwill, business interruption, or cost of substitute services, even if that party has been advised of the possibility of such damages.
+
+**20.3 Essential Basis.** The parties acknowledge that the limitations of liability in this Section reflect a reasonable allocation of risk and are an essential basis of the bargain between the parties. The Company would not provide AI Features on the terms set forth in this Policy without these limitations.
+
+**20.4 Exceptions.** The limitations in Sections 20.1 and 20.2 do not apply to: (a) liability arising from a party's gross negligence or willful misconduct; (b) a party's indemnification obligations under Section 19; (c) violations of Section 4.2 (Illegal Content Generation); or (d) liability that cannot be limited under applicable law.
+
