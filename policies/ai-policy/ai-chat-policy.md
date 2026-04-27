@@ -245,6 +245,10 @@ For the purposes of this AI Chat and AI Use Policy, the following definitions ap
 
 **7.5 Disclosure.** The Platform discloses which services involve Word Extraction and linguistic analysis in the applicable service-level descriptions and in the Layer B plain language summaries presented at the point of service enrollment.
 
+**7.6 DVE Provenance Tracking.** The Platform's DVE Governance layer maintains content provenance records throughout the Word Extraction and processing pipeline to ensure that TK classifications and consent restrictions assigned at the point of ingestion are preserved and enforced at every stage of processing and output.
+
+**7.6.1 Provenance Tracking Requirement.** Where Word Extraction involves or may involve TK Content, the Platform's technical systems are designed to track content provenance through the extraction pipeline in order to ensure that TK classifications and restrictions applicable at the point of ingestion are preserved and enforced at the point of output. The Company will not intentionally surface TK-restricted extracted outputs in general lexicons, public datasets, or AI systems from which the applicable TK restrictions have been removed. This obligation applies regardless of whether the TK classification was assigned by the User at submission or identified by Platform systems during processing.
+
 ---
 
 ### 8. Sacred and TK Content — AI Exclusion
