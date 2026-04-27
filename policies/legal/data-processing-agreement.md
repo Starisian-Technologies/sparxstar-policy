@@ -1,6 +1,6 @@
 ---
 version: 0.1.0
-date: [INSERT DATE]
+date: YYYY-MM-DD
 status: placeholder
 policyType: legal-instrument
 dependsOnMasterTerms: true
