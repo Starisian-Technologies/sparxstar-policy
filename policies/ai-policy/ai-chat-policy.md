@@ -229,6 +229,8 @@ For the purposes of this AI Chat and AI Use Policy, the following definitions ap
 
 **6.5 API Access.** Access to Platform Structured Datasets through APIs is subject to separate API terms of service and, where applicable, commercial licensing agreements.
 
+**6.5.1 Survival of Dataset License.** The license granted in Section 6.5 with respect to User Content already incorporated into Structured Datasets survives termination of the User's account or withdrawal of consent, to the extent that disaggregation of individual contributions from existing Structured Datasets is not technically feasible. The Company will not use such surviving license rights to add new User Content to Structured Datasets following a valid withdrawal of consent or account deletion. Upon request, the Company will confirm in writing that no new processing of the User's Content has occurred following the withdrawal date.
+
 ---
 
 ### 7. Word Extraction and Meaning Analysis
