@@ -320,7 +320,7 @@ For the purposes of this AI Chat and AI Use Policy, the following definitions ap
 
 **13.2 Third-Party Terms.** Use of AI Features powered by third-party providers may be subject to those providers' terms of service and acceptable use policies in addition to this Policy. Where a third-party provider imposes additional restrictions on content types or use cases, those restrictions apply within the relevant AI Feature.
 
-**13.3 Data Sharing with AI Providers.** User inputs processed through third-party AI APIs may be transmitted to those providers' systems for Inference. This data sharing is disclosed in the Privacy Policy. Users may avoid third-party AI processing by not using AI Features where such processing is disclosed.
+**13.3 Data Processing Roles and Safeguards.** Third-party AI service providers that process User inputs on behalf of the Company act as data processors or sub-processors, as applicable under applicable law. The Company enters into data processing agreements or equivalent contractual safeguards with such providers that: (a) restrict the provider's use of User data to the purpose of delivering the contracted service; (b) prohibit the provider from using User data for the provider's own model training without separate User consent; (c) address cross-border data transfer requirements under applicable law, including standard contractual clauses where required for transfers to or from the European Economic Area; and (d) require the provider to implement appropriate technical and organizational security measures. Users who wish to avoid third-party AI processing may disable the relevant AI Features where such an option is made available.
 
 ---
 
