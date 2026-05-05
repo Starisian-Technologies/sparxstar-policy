@@ -130,6 +130,8 @@ As used in these Master Terms of Service, the following terms have the meanings 
 
 **1.17 "Applicable Law"** means all applicable local, state, national, and international laws, regulations, rules, orders, directives, and standards, including but not limited to data protection laws, consumer protection laws, intellectual property laws, export control laws, and anti-money laundering laws.
 
+**1.18 "AI-Assisted Output"** means any text, image, audio, video, code, translation, transcription, annotation, classification, structured data record, or other material produced in whole or in part by an AI System operating on the Platform, whether in response to a User input, as part of an automated pipeline, or as a Platform-initiated generation. The term "AI-Assisted Outputs" as used in these Terms has the same meaning as defined in the AI Chat and AI Use Policy (Section 1.1) and is incorporated herein by reference.
+
 ---
 
 ### 2. Scope and Applicability
