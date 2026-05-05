@@ -10,10 +10,11 @@ supersedes: none
 
 # Data Processing Agreement — Placeholder
 
-> **This document is a placeholder.**
-> A full Data Processing Agreement (DPA) is required before the Platform
-> may lawfully process personal data of users in the European Economic Area,
-> United Kingdom, or other jurisdictions with mandatory DPA requirements.
+> **This document is a placeholder and is not yet finalized.**
+> A full Data Processing Agreement (DPA) is under development. Additional
+> jurisdiction-specific contractual documentation may be required before the
+> Platform accepts users from the European Economic Area, the United Kingdom,
+> or other jurisdictions with mandatory DPA requirements.
 > This document must be drafted and reviewed by qualified legal counsel
 > before the Platform accepts users from those jurisdictions.
 

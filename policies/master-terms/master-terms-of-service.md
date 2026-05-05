@@ -237,7 +237,7 @@ As used in these Master Terms of Service, the following terms have the meanings 
 
 **6.2.1 Platform License to User for AI-Assisted Outputs.** Subject to the User's compliance with these Master Terms and applicable service terms, the Company grants the User a worldwide, non-exclusive, royalty-free license to use, reproduce, distribute, and create derivative works from AI-Assisted Outputs generated in response to that User's prompts, to the extent the Company holds any rights in such Outputs and to the extent permitted by applicable law. This license is subject to the restrictions and conditions set forth in the AI Chat and AI Use Policy, including Section 9.
 
-**6.3 License Duration.** The license granted in Section 6.2 continues for as long as the applicable User Content remains on the Platform. Where the Company retains derived works, structured datasets, or AI outputs generated from User Content, the license to those derivative works and outputs continues after removal of the original User Content, subject to applicable law.
+**6.3 License Duration.** The license granted in Section 6.2 continues for as long as the applicable User Content remains on the Platform. Where the Company retains derived works, structured datasets, or AI outputs generated from User Content, the license to those derivative works and outputs continues after removal of the original User Content, subject to applicable privacy, consumer protection, and data protection laws.
 
 **6.4 Client Operator Sublicense.** Where User Content is submitted through a Client Operator site, the Company may sublicense the rights described in Section 6.2 to the applicable Client Operator for the limited purpose of operating and displaying the applicable site and Services.
 
