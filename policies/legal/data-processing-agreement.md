@@ -14,13 +14,12 @@ supersedes: none
 
 ## Plain Language Summary
 
-> **This document is a placeholder and is not yet finalized.**
-> A full Data Processing Agreement (DPA) is under development. Additional
-> jurisdiction-specific contractual documentation may be required before the
-> Platform accepts users from the European Economic Area, the United Kingdom,
-> or other jurisdictions with mandatory DPA requirements.
-> This document must be drafted and reviewed by qualified legal counsel
-> before the Platform accepts users from those jurisdictions.
+> **This document is a structural placeholder and has not yet been finalized.**
+> A full Data Processing Agreement (DPA) is under development and under review
+> by qualified legal counsel. Jurisdiction-specific contractual documentation
+> may be required for certain uses of the Platform involving personal data
+> of individuals in the European Economic Area, the United Kingdom, or other
+> jurisdictions with mandatory DPA requirements.
 
 **What this document is:** A placeholder identifying the required structure and
 contents of a Data Processing Agreement (DPA) between the Company
@@ -28,13 +27,13 @@ contents of a Data Processing Agreement (DPA) between the Company
 the Platform to process personal data.
 
 **What it is not:** A final, binding, or executed Data Processing Agreement.
-This document creates no legal obligations and must not be relied upon.
+This document creates no legal obligations and must not be relied upon as a
+substitute for an executed DPA.
 
-**What you should do:** If your use of the Platform involves processing
-personal data of individuals in the European Economic Area, United Kingdom,
-or other jurisdictions with mandatory DPA requirements, do not proceed
-until a valid DPA has been executed. Contact the Company to request the
-current draft DPA for legal review.
+**What you should do:** If your organization requires a formal executed DPA
+as a condition of using the Platform to process personal data subject to
+GDPR, UK GDPR, or equivalent requirements, contact the Company to request
+the current DPA for legal review and execution.
 
 ---
 
