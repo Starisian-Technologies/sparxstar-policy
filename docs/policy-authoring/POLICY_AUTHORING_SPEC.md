@@ -128,6 +128,13 @@ Layers 1, 2, and 3 are **required** for every policy. Layer 4 is optional and us
 - `schemas/policy-manifest.schema.json` applies only to manifest or index entries that reference policy files; it does not govern the YAML front-matter requirements for individual policy documents.
 - `status` must reflect the current lifecycle stage of the document.
 - `version` must be updated whenever Layer 1 or Layer 2 changes.
+- `policyType` must be one of the following three values:
+
+  | Value | Description |
+  |---|---|
+  | `master` | The umbrella Master Terms of Service. `dependsOnMasterTerms` must be `false`. |
+  | `module` | A subsidiary policy module incorporated by reference into the Master Terms. `dependsOnMasterTerms` must be `true`. |
+  | `legal-instrument` | A separately-executed legal instrument (e.g., a Data Processing Agreement). Bilaterally executed, jurisdiction-triggered, processor/controller-scoped, and externally attestable. Semantically distinct from an informational policy module; may be cross-referenced by the Master Terms or a module without being fully incorporated as a standard module. `dependsOnMasterTerms` must reflect whether the instrument is cross-referenced by the Master Terms. |
 
 **Format:**
 

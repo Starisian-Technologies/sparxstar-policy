@@ -21,10 +21,11 @@
     },
     "policyType": {
       "type": "string",
-      "description": "Classifies the document as the umbrella master terms or a subsidiary module.",
+      "description": "Classifies the document as the umbrella master terms, a subsidiary policy module, or a separately-executed legal instrument (e.g., a Data Processing Agreement). Legal instruments are bilaterally executed, jurisdiction-triggered, processor/controller-scoped, and externally attestable — semantically distinct from informational policy modules.",
       "enum": [
         "master",
-        "module"
+        "module",
+        "legal-instrument"
       ]
     },
     "purpose": {
