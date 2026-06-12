@@ -3,7 +3,7 @@ version: 0.1.0
 date: 2026-05-05
 status: drafting
 policyType: legal-instrument
-dependsOnMasterTerms: true
+dependsOnMasterTerms: false
 jurisdiction: California
 supersedes: none
 ---
