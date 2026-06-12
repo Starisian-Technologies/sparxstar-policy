@@ -21,27 +21,65 @@ sourceModels:
 
 ---
 
+
+## Role Labels
+
+The following role labels define the legal actors in this document. Where domain-based rendering applies, **SITE OWNER** resolves to the public-facing entity for the active domain. All other labels are fixed.
+
+| Label | Legal Definition | Resolved Identity |
+|---|---|---|
+| **PLATFORM** | The SPARXSTAR technical platform, infrastructure, APIs, processing systems, AI systems, databases, and hosting environment. | SPARXSTAR (always) |
+| **PLATFORM OPERATOR** | The legal entity that owns, operates, and is legally responsible for the PLATFORM. | Starisian Technologies, LLC (always) |
+| **SITE OWNER** | The public-facing website owner or site operator responsible for the site on the active domain. | SPARXSTAR on Platform Domains (*.sparxstar.com); the applicable Client Operator on Mapped Custom Domains |
+| **END USER** | The visitor, user, customer, attendee, buyer, or other natural person accessing and using the site or service. | Varies by domain and context |
+| **SERVICE PROVIDER** | Any third-party contractor, subcontractor, vendor, processor, cloud host, AI provider, payment processor, logistics provider, shipper, printer, moderation service, or support provider engaged by PLATFORM OPERATOR or SITE OWNER to perform backend functions. | Varies |
+
+> **Rendering note:** On Platform Domains (`*.sparxstar.com` and other Company-operated domains), SITE OWNER and PLATFORM OPERATOR are both Starisian Technologies, LLC, and PLATFORM is SPARXSTAR. On Mapped Custom Domains, SITE OWNER resolves to the Client Operator for the end-user-facing layer; PLATFORM and PLATFORM OPERATOR remain unchanged.
+>
+> In clauses that assign legal responsibility to a specific named entity, the full legal name (Starisian Technologies, LLC) is used in lieu of the PLATFORM OPERATOR label.
+
+### Defined Term Cross-Reference
+
+The following cross-reference maps terms used in the Full Legal Text to their Role Label equivalents:
+
+| Term in Full Legal Text | Role Label Equivalent |
+|---|---|
+| "the Company" / "Company" | PLATFORM OPERATOR (Starisian Technologies, LLC) |
+| "the Platform" / "Platform" | PLATFORM (SPARXSTAR infrastructure) |
+| "Client Operator" / "Operator" | SITE OWNER (on Mapped Custom Domains) |
+| "User" / "End User" | END USER |
+| "Subcontractor" | SERVICE PROVIDER |
+
+---
+> **Community note:** PLATFORM OPERATOR enforces PLATFORM-level behavioral standards on all domains. SITE OWNER may impose additional behavioral requirements on their site but may not reduce PLATFORM-level standards.
+
+---
+
 ## Plain Language Summary
 
 *Layer 1 — Human Readable. Written for artists, contributors, and users — not lawyers.*
 
 > How we expect people to treat each other on our platform, and what happens when they don't.
 
-**What we do:** We maintain a platform where artists, creators, and community members can collaborate — and we enforce rules that keep it safe and respectful for everyone.
+> **Who is "we" in this document?**
+> **"We"** and **"us"** in this Community Policy refer to **PLATFORM OPERATOR** (Starisian Technologies, LLC) enforcing PLATFORM-level behavioral standards on all domains.
+> On Mapped Custom Domains, SITE OWNER (the Client Operator) may apply supplemental community standards for their domain. PLATFORM-level behavioral standards apply everywhere regardless of which domain is active.
 
-**What you can do:** Participate, create, collaborate, disagree, and express yourself — as long as you treat others with basic respect.
+**What PLATFORM OPERATOR does:** PLATFORM OPERATOR maintains a PLATFORM where artists, creators, and community members can collaborate, and enforces behavioral rules that keep it safe and respectful for everyone.
 
-**What is not allowed:** Harassment, threats, impersonation, spam, fraud, hate speech, or any conduct that harms or intimidates other users.
+**What you can do:** END USERS may participate, create, collaborate, disagree, and express themselves — as long as they treat others with basic respect.
+
+**What is not allowed:** Harassment, threats, impersonation, spam, fraud, hate speech, or any conduct that harms or intimidates other END USERS.
 
 ---
 
-This policy governs how people behave on our platform. It applies to everyone who uses SPARXSTAR or AIWA — artists, listeners, developers, and any other user — across all platform surfaces including messaging, comments, community spaces, and profile pages.
+This policy governs how people behave on the PLATFORM. It applies to every END USER who uses SPARXSTAR or AIWA — artists, listeners, developers, and any other user — across all PLATFORM surfaces including messaging, comments, community spaces, and profile pages.
 
-We built SPARXSTAR to support artists and cultural creators. That means the community matters. We expect every person on the platform to treat others the way they would want to be treated — with honesty, respect, and good faith.
+PLATFORM OPERATOR built SPARXSTAR to support artists and cultural creators. That means the community matters. PLATFORM OPERATOR expects every END USER on the PLATFORM to treat others the way they would want to be treated — with honesty, respect, and good faith.
 
-When someone violates these standards, we take action. Depending on how serious the violation is, that could mean a warning, a temporary suspension, or a permanent ban. For serious violations that break the law, we may involve law enforcement.
+When an END USER violates these standards, PLATFORM OPERATOR takes action. Depending on how serious the violation is, that could mean a warning, a temporary suspension, or a permanent ban. For serious violations that break the law, PLATFORM OPERATOR may involve law enforcement.
 
-We do not tolerate conduct that makes others feel unsafe. Harassment is never acceptable. Threats — even ones framed as jokes — are never acceptable. Impersonating another person or brand is never acceptable.
+PLATFORM OPERATOR does not tolerate conduct that makes others feel unsafe. Harassment is never acceptable. Threats — even ones framed as jokes — are never acceptable. Impersonating another person or brand is never acceptable.
 
 ---
 
