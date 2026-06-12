@@ -270,6 +270,20 @@
 
 ---
 
+### 18. Audio Recording and Biometric Data Policy
+
+| Field | Value |
+|---|---|
+| Policy Name | Audio Recording and Biometric Data Policy |
+| Purpose | Governs collection, retention, processing, destruction, and export of voice recordings and derived biometric data; establishes the Retention Class framework (Ephemeral and Vault), identity-decoupling rules, Carrier destruction obligations, Acoustic Blueprint standards, and corpus-export eligibility gates |
+| Status | `drafting` |
+| Jurisdiction Scope | California; Republic of The Gambia; EU/GDPR; U.S. state biometric privacy statutes |
+| Depends on Master Terms | `true` |
+| Drafting Priority | 18 |
+| File Path | `policies/audio-biometric/audio-biometric-policy.md` |
+
+---
+
 ## Governance Frameworks (Non-Policy Documents)
 
 | Document | Purpose | Status |
