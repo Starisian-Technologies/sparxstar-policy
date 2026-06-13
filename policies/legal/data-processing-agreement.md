@@ -4,7 +4,7 @@ date: 2026-05-05
 status: drafting
 policyType: legal-instrument
 dependsOnMasterTerms: false
-jurisdiction: California
+jurisdiction: Los Angeles, California, United States
 supersedes: none
 ---
 
@@ -18,8 +18,7 @@ supersedes: none
 > A full Data Processing Agreement (DPA) is under development and under review
 > by qualified legal counsel. Jurisdiction-specific contractual documentation
 > may be required for certain uses of the Platform involving personal data
-> of individuals in the European Economic Area, the United Kingdom, or other
-> jurisdictions with mandatory DPA requirements.
+> subject to contractual or statutory processing requirements.
 
 **What this document is:** A placeholder identifying the required structure and
 contents of a Data Processing Agreement (DPA) between the Company
@@ -31,9 +30,8 @@ This document creates no legal obligations and must not be relied upon as a
 substitute for an executed DPA.
 
 **What you should do:** If your organization requires a formal executed DPA
-as a condition of using the Platform to process personal data subject to
-GDPR, UK GDPR, or equivalent requirements, contact the Company to request
-the current DPA for legal review and execution.
+as a condition of using the Platform to process personal data, contact the
+Company to request the current DPA for legal review and execution.
 
 ---
 
@@ -63,7 +61,7 @@ The following sections must be present in the final DPA:
 12. Deletion or Return of Personal Data
 13. Audit Rights
 14. International Data Transfer Mechanisms
-    (Standard Contractual Clauses — EU/UK/Switzerland)
+    (if applicable under California law and executed contractual terms)
 15. Governing Law and Jurisdiction
 16. Signatures
 
