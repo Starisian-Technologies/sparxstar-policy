@@ -308,11 +308,11 @@ For the purposes of this Content Policy, the following definitions apply:
 
 ### 11. Content Removal and Enforcement
 
-**11.1 Grounds for Removal.** The Platform may remove or restrict Content that: (a) falls within any Prohibited Content category; (b) is reported as infringing under the DMCA takedown process (see IP / DMCA Policy); (c) is determined to violate this Policy; (d) lacks required TK authorization; (e) was submitted with materially false Metadata; or (f) is subject to a valid legal order requiring removal.
+**11.1 Grounds for Removal.** The Platform may remove or restrict Content that: (a) falls within any Prohibited Content category; (b) is reported as infringing under the DMCA takedown process (see IP/DMCA/DRM Policy (`policies/ip/ip-dmca-drm-policy.md`)); (c) is determined to violate this Policy; (d) lacks required TK authorization; (e) was submitted with materially false Metadata; or (f) is subject to a valid legal order requiring removal.
 
 **11.2 Notice Before Removal.** Where practicable and where not prohibited by law or urgency, the Platform will notify the submitting User of the grounds for removal and the right to appeal before removing Content. For Absolute Prohibited Content (CSAM, terrorism facilitation, and similar categories), removal is immediate and without prior notice.
 
-**11.3 DMCA Process.** Copyright infringement claims are governed by the IP / DMCA Policy, which sets forth the procedures for submitting takedown notices, counter-notices, and the Platform's response obligations under the Digital Millennium Copyright Act.
+**11.3 DMCA Process.** Copyright infringement claims are governed by the IP/DMCA/DRM Policy (`policies/ip/ip-dmca-drm-policy.md`), which sets forth the procedures for submitting takedown notices, counter-notices, and the Platform's response obligations under the Digital Millennium Copyright Act.
 
 **11.4 Appeals Process.** Users whose Content has been removed under this Policy (other than for Absolute Prohibited Content) may submit an appeal within thirty (30) days of the removal notice. Appeals must be submitted through the account settings under "Content Decisions" and must state the specific grounds for the appeal. The Platform will review appeals within a commercially reasonable time and notify the User of the outcome.
 
