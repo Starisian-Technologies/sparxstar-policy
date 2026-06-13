@@ -337,7 +337,7 @@ For the purposes of this Consent Policy, the following definitions apply:
 
 **9.3 Immutability.** Consent Records are stored in a manner that prevents retroactive modification. Modifications to Consent status create new Consent Record entries; they do not overwrite prior entries.
 
-**9.4 User Access.** Users may request a copy of their Consent Records by submitting a request to the contact information in Section 16. The Platform will respond to such requests within thirty (30) days.
+**9.4 User Access.** Users may request a copy of their Consent Records by submitting a request to the contact information in Section 17. The Platform will respond to such requests within thirty (30) days.
 
 **9.5 Operator Records.** Client Operators that deploy their own Consent mechanisms on top of Platform infrastructure are responsible for maintaining their own Consent Records in compliance with applicable law. Such records supplement, and do not replace, Company-maintained Consent Records at the Platform layer.
 
