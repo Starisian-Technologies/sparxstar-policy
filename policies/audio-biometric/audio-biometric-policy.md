@@ -2,7 +2,7 @@
 version: 0.1.0
 date: 2026-06-12
 status: drafting
-jurisdiction: California; Republic of The Gambia
+jurisdiction: California; Republic of The Gambia; EU/GDPR; U.S. state biometric privacy statutes
 supersedes: none
 policyType: module
 dependsOnMasterTerms: true
