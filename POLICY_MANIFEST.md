@@ -298,6 +298,20 @@
 
 ---
 
+### 20. Minor Participation and Privacy Policy
+
+| Field | Value |
+|---|---|
+| Policy Name | Minor Participation and Privacy Policy |
+| Purpose | Governs participation safeguards, guardian consent requirements, identity-separation controls, and privacy rights for participants under the age of digital consent |
+| Status | `drafting` |
+| Jurisdiction Scope | Los Angeles, California, United States; global use for age-of-digital-consent handling |
+| Depends on Master Terms | `true` |
+| Drafting Priority | 20 |
+| File Path | `policies/privacy/minor-participation-and-privacy-policy.md` |
+
+---
+
 ## Governance Frameworks (Non-Policy Documents)
 
 | Document | Purpose | Status |
