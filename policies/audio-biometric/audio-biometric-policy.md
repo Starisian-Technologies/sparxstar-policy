@@ -366,7 +366,7 @@ These are operational go/no-go gates, not aspirational goals.
 
 **12.2 Limitations.** Destruction of a Carrier under this Policy does not require the Company to delete the Contribution, except to the extent required by a valid data deletion request under applicable privacy or data protection law and subject to the technical feasibility and proportionality limitations in the AI Chat and AI Use Policy §6.5.1. Nothing in this Policy limits any non-waivable right a Contributor holds under applicable law.
 
-**12.3 Exercising Rights.** To exercise any right under this Section, a Contributor must submit a request to the contact identified in Section 14. The Company will respond within the time period required by applicable law.
+To exercise any right under this Section, a Contributor must submit a request to the contact identified in Section 15. The Company will respond within the time period required by applicable law.
 
 ---
 
