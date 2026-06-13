@@ -359,7 +359,7 @@ If the Company becomes aware that it has collected Personal Data from a child un
 
 ### 17. Marketing and Communications
 
-**17.1 Types of Communications.** The Company may send the following categories of communications to Users:
+Where automated decisions are used for Account enforcement actions, the Company provides a human review pathway, described in Section 10.3 of the AI Chat and AI Use Policy or Section 11.4 of the Content Policy.
 
   (a) *Transactional communications:* Account confirmations, password reset messages, order confirmations, transaction receipts, support responses, and service notifications. These are sent as part of the provision of Services and do not require separate consent.
 
