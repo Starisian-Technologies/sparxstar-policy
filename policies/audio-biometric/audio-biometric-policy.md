@@ -122,7 +122,7 @@ Depending on where you live, you may have rights including:
 - The right to object to certain types of processing
 - The right to a human review of automated decisions that affect you significantly
 
-To exercise any of these rights, contact us at the address in Section 14 of the Full Legal Text.
+To exercise any of these rights, contact us at the address in Section 15 of the Full Legal Text.
 
 ### AI Training
 
