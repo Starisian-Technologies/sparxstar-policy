@@ -366,7 +366,7 @@ Distributor reserves the right to amend these Terms at any time. Material change
 
 ---
 
-### 17. Contact
+Questions regarding these Terms may be directed to the contact identified in Section 17. The Company will respond within the time period required by applicable law.
 
 Questions regarding these Terms may be directed to:
 

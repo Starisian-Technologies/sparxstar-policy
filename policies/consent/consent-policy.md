@@ -237,7 +237,7 @@ For the purposes of this Consent Policy, the following definitions apply:
 
 (b) Marketing communications consent operates on an opt-out basis for Users who have voluntarily provided contact information in the course of using Platform services, subject to applicable law. Where applicable law requires opt-in consent for commercial electronic messages (including but not limited to the EU ePrivacy Directive and CASL), opt-in Explicit Consent will be obtained.
 
-(c) Users may opt out of marketing communications at any time by: (i) using the unsubscribe link in any marketing message; (ii) updating communication preferences in account settings; or (iii) submitting a request to the contact information in Section 16 of this Policy.
+(c) Users may opt out of marketing communications at any time by: (i) using the unsubscribe link in any marketing message; (ii) updating communication preferences in account settings; or (iii) submitting a request to the contact information in Section 17 of this Policy.
 
 (d) Opt-out of marketing communications does not affect transactional or service communications required for account management, security, or contractual performance.
 
@@ -307,7 +307,7 @@ For the purposes of this Consent Policy, the following definitions apply:
 
 **7.1 Right to Withdraw.** A User, Authorized Community Representative, or Designated Sacred Authority may withdraw Consent at any time, for any or no reason, using the mechanisms described in Section 7.2.
 
-**7.2 Withdrawal Mechanisms.** Consent Withdrawal may be effected through any of the following mechanisms: (a) account settings Privacy and Consent dashboard; (b) opt-out links included in relevant communications; (c) written request submitted to the contact information in Section 16; (d) cookie preference center for Cookie Consent withdrawal; or (e) such other mechanisms as the Platform may make available.
+**7.2 Withdrawal Mechanisms.** Consent Withdrawal may be effected through any of the following mechanisms: (a) account settings Privacy and Consent dashboard; (b) opt-out links included in relevant communications; (c) written request submitted to the contact information in Section 17; (d) cookie preference center for Cookie Consent withdrawal; or (e) such other mechanisms as the Platform may make available.
 
 **7.3 Prospective Effect.** Consent Withdrawal takes effect prospectively. Withdrawal does not: (a) undo processing that was completed prior to receipt of the withdrawal request; (b) require deletion of Consent Records (which must be retained per Section 9); or (c) affect processing that is authorized on a legal basis other than Consent (such as contractual necessity or legitimate interest).
 
@@ -337,7 +337,7 @@ For the purposes of this Consent Policy, the following definitions apply:
 
 **9.3 Immutability.** Consent Records are stored in a manner that prevents retroactive modification. Modifications to Consent status create new Consent Record entries; they do not overwrite prior entries.
 
-**9.4 User Access.** Users may request a copy of their Consent Records by submitting a request to the contact information in Section 16. The Platform will respond to such requests within thirty (30) days.
+**9.4 User Access.** Users may request a copy of their Consent Records by submitting a request to the contact information in Section 17. The Platform will respond to such requests within thirty (30) days.
 
 **9.5 Operator Records.** Client Operators that deploy their own Consent mechanisms on top of Platform infrastructure are responsible for maintaining their own Consent Records in compliance with applicable law. Such records supplement, and do not replace, Company-maintained Consent Records at the Platform layer.
 

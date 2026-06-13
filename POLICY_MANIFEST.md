@@ -270,6 +270,48 @@
 
 ---
 
+### 18. Audio Recording and Biometric Data Policy
+
+| Field | Value |
+|---|---|
+| Policy Name | Audio Recording and Biometric Data Policy |
+| Purpose | Governs collection, retention, processing, destruction, and export of voice recordings and derived biometric data; establishes the Retention Class framework (Ephemeral and Vault), identity-decoupling rules, Carrier destruction obligations, Acoustic Blueprint standards, and corpus-export eligibility gates |
+| Status | `drafting` |
+| Jurisdiction Scope | California; Republic of The Gambia; EU/GDPR; U.S. state biometric privacy statutes |
+| Depends on Master Terms | `true` |
+| Drafting Priority | 18 |
+| File Path | `policies/audio-biometric/audio-biometric-policy.md` |
+
+---
+
+### 19. Data Processing Agreement (DPA) — Placeholder
+
+| Field | Value |
+|---|---|
+| Policy Name | Data Processing Agreement (DPA) — Placeholder |
+| Purpose | Placeholder for a separately-executed Data Processing Agreement governing controller/processor obligations and data transfer mechanisms |
+| Status | `drafting` |
+| Jurisdiction Scope | EU/EEA; United Kingdom; other jurisdictions with mandatory DPA requirements |
+| Depends on Master Terms | `false` |
+| Drafting Priority | 19 |
+| File Path | `policies/legal/data-processing-agreement.md` |
+
+---
+
+### 20. Minor Participation and Privacy Policy
+
+| Field | Value |
+|---|---|
+| Policy Name | Minor Participation and Privacy Policy |
+| Purpose | Governs participation safeguards, guardian consent requirements, identity-separation controls, and privacy rights for participants under the age of digital consent |
+| Status | `drafting` |
+| Jurisdiction Scope | Los Angeles, California, United States; global use for age-of-digital-consent handling |
+| Depends on Master Terms | `true` |
+| Drafting Priority | 20 |
+| File Path | `policies/privacy/minor-participation-and-privacy-policy.md` |
+
+---
+
 ## Governance Frameworks (Non-Policy Documents)
 
 | Document | Purpose | Status |

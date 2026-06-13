@@ -302,7 +302,7 @@ Upon receipt of a complete and valid DMCA takedown notice, Starisian Technologie
 
   (c) Notify the User who uploaded the allegedly Infringing Content that the content has been removed or disabled and provide the User with a copy of the takedown notice or a summary of its contents, except where disclosure is prohibited by law;
 
-  (d) Document the takedown action for purposes of repeat infringer tracking under Section 5.7.
+  (d) Document the takedown action for purposes of repeat infringer tracking under Section 5.8.
 
 **5.5 Incomplete Notices**
 

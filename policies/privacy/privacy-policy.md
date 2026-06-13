@@ -340,7 +340,7 @@ Capitalized terms used but not defined in this Privacy Policy have the meanings 
 **15.1 Age Restriction.** The Platform and Services are not directed to children under the age of thirteen (13). The Company does not knowingly collect Personal Data from children under thirteen (13) without verifiable parental consent in compliance with the Children's Online Privacy Protection Act ("COPPA") and applicable law.
 
 **15.2 Discovery and Deletion.** If the Company becomes aware that it has collected Personal Data from a child under thirteen (13) without verifiable parental consent, it will take steps to delete that data promptly. Parents or guardians who believe their child has provided Personal Data to the Company without consent should contact the Company using the contact information in Section 16.
-
+If the Company becomes aware that it has collected Personal Data from a child under thirteen (13) without verifiable parental consent, it will take steps to delete that data promptly. Parents or guardians who believe their child has provided Personal Data to the Company without consent should contact the Company using the contact information in Section 21.
 **15.3 Users Aged 13–17.** Users between the ages of thirteen (13) and seventeen (17) may only use the Platform with the consent and supervision of a parent or legal guardian as described in the Master Terms of Service.
 
 ---
@@ -359,7 +359,7 @@ Capitalized terms used but not defined in this Privacy Policy have the meanings 
 
 ### 17. Marketing and Communications
 
-**17.1 Types of Communications.** The Company may send the following categories of communications to Users:
+Where automated decisions are used for Account enforcement actions, the Company provides a human review pathway, described in Section 10.3 of the AI Chat and AI Use Policy or Section 11.4 of the Content Policy.
 
   (a) *Transactional communications:* Account confirmations, password reset messages, order confirmations, transaction receipts, support responses, and service notifications. These are sent as part of the provision of Services and do not require separate consent.
 
