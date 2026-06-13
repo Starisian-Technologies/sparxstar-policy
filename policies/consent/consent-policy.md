@@ -237,7 +237,7 @@ For the purposes of this Consent Policy, the following definitions apply:
 
 (b) Marketing communications consent operates on an opt-out basis for Users who have voluntarily provided contact information in the course of using Platform services, subject to applicable law. Where applicable law requires opt-in consent for commercial electronic messages (including but not limited to the EU ePrivacy Directive and CASL), opt-in Explicit Consent will be obtained.
 
-(c) Users may opt out of marketing communications at any time by: (i) using the unsubscribe link in any marketing message; (ii) updating communication preferences in account settings; or (iii) submitting a request to the contact information in Section 16 of this Policy.
+(c) Users may opt out of marketing communications at any time by: (i) using the unsubscribe link in any marketing message; (ii) updating communication preferences in account settings; or (iii) submitting a request to the contact information in Section 17 of this Policy.
 
 (d) Opt-out of marketing communications does not affect transactional or service communications required for account management, security, or contractual performance.
 
