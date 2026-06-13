@@ -284,6 +284,20 @@
 
 ---
 
+### 19. Data Processing Agreement (DPA) — Placeholder
+
+| Field | Value |
+|---|---|
+| Policy Name | Data Processing Agreement (DPA) — Placeholder |
+| Purpose | Placeholder for a separately-executed Data Processing Agreement governing controller/processor obligations and data transfer mechanisms |
+| Status | `drafting` |
+| Jurisdiction Scope | EU/EEA; United Kingdom; other jurisdictions with mandatory DPA requirements |
+| Depends on Master Terms | `false` |
+| Drafting Priority | 19 |
+| File Path | `policies/legal/data-processing-agreement.md` |
+
+---
+
 ## Governance Frameworks (Non-Policy Documents)
 
 | Document | Purpose | Status |
