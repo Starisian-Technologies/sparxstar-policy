@@ -307,7 +307,7 @@ For the purposes of this Consent Policy, the following definitions apply:
 
 **7.1 Right to Withdraw.** A User, Authorized Community Representative, or Designated Sacred Authority may withdraw Consent at any time, for any or no reason, using the mechanisms described in Section 7.2.
 
-**7.2 Withdrawal Mechanisms.** Consent Withdrawal may be effected through any of the following mechanisms: (a) account settings Privacy and Consent dashboard; (b) opt-out links included in relevant communications; (c) written request submitted to the contact information in Section 16; (d) cookie preference center for Cookie Consent withdrawal; or (e) such other mechanisms as the Platform may make available.
+**7.2 Withdrawal Mechanisms.** Consent Withdrawal may be effected through any of the following mechanisms: (a) account settings Privacy and Consent dashboard; (b) opt-out links included in relevant communications; (c) written request submitted to the contact information in Section 17; (d) cookie preference center for Cookie Consent withdrawal; or (e) such other mechanisms as the Platform may make available.
 
 **7.3 Prospective Effect.** Consent Withdrawal takes effect prospectively. Withdrawal does not: (a) undo processing that was completed prior to receipt of the withdrawal request; (b) require deletion of Consent Records (which must be retained per Section 9); or (c) affect processing that is authorized on a legal basis other than Consent (such as contractual necessity or legitimate interest).
 
